@@ -1,0 +1,801 @@
+﻿id,message,label,category,red_flags,source_type,difficulty,template_id,split
+1,"Trong lúc kiểm tra thông báo, Chúc mừng bạn đã nhận quà tri ân khách hàng. Hãy đăng nhập qua đường dẫn để xác nhận phần thưởng https://phan-thuong.example/nhanqua.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T01,train
+2,"Trong ứng dụng nhắn tin, Chúc mừng bạn đã nhận một điện thoại mới. Hãy nhấn vào liên kết để xác nhận phần thưởng https://xac-minh.example/kiemtra.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T01,train
+3,"Qua hộp thư, Chúc mừng bạn đã nhận voucher mua sắm. Hãy bấm vào liên kết để xác nhận phần thưởng https://ho-tro.example/capnhat.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T01,train
+4,"Khi đang dùng điện thoại, Chúc mừng bạn đã nhận 2 triệu đồng. Hãy đăng nhập qua đường dẫn để xác nhận phần thưởng https://phan-thuong.example/nhanqua.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T01,train
+5,"Trong ứng dụng nhắn tin, Chúc mừng bạn đã nhận gói dữ liệu miễn phí. Hãy xác minh qua trang web để xác nhận phần thưởng https://phan-thuong.example/nhanqua.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T01,train
+6,Bạn là khách hàng may mắn được tặng thẻ game trị giá cao; xin vui lòng xác minh qua trang web và hoàn tất thông tin nhận quà.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T02,train
+7,"Sau giờ học, Bạn là khách hàng may mắn được tặng một điện thoại mới; xin vui lòng đăng nhập qua đường dẫn và hoàn tất thông tin nhận quà.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T02,train
+8,Bạn là khách hàng may mắn được tặng một điện thoại mới; vui lòng điền biểu mẫu và hoàn tất thông tin nhận quà.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T02,train
+9,"Sau giờ học, Bạn là khách hàng may mắn được tặng 5 triệu đồng; vui lòng bấm vào đường link và hoàn tất thông tin nhận quà.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T02,train
+10,"Trong lúc kiểm tra thông báo, Bạn là khách hàng may mắn được tặng quà tri ân khách hàng; vui lòng bấm vào đường link và hoàn tất thông tin nhận quà.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T02,train
+11,"Hệ thống thông báo bạn trúng voucher mua sắm. Phần thưởng chỉ được giữ trong 5 phút, hãy nhấn vào liên kết.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T03,train
+12,"Hệ thống thông báo bạn trúng thẻ game trị giá cao. Phần thưởng chỉ được giữ trong vòng 30 phút, hãy bấm vào đường link.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T03,train
+13,"Buổi sáng, Hệ thống thông báo bạn trúng gói dữ liệu miễn phí. Phần thưởng chỉ được giữ trong vòng 30 phút, hãy nhấn vào liên kết.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T03,train
+14,"Hệ thống thông báo bạn trúng một điện thoại mới. Phần thưởng chỉ được giữ trước 18 giờ, hãy bấm vào liên kết.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T03,train
+15,"Hệ thống thông báo bạn trúng voucher mua sắm. Phần thưởng chỉ được giữ trong 5 phút, hãy điền biểu mẫu.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,easy,LD1_REWARD_T03,train
+16,"Buổi sáng, Quà tri ân dành riêng cho bạn: học bổng đặc biệt. Xác nhận nhận quà tại https://xac-minh.example/kiemtra.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T04,train
+17,"Trong một cuộc trò chuyện, Quà tri ân dành riêng cho bạn: học bổng đặc biệt. Xác nhận nhận quà tại https://ho-tro.example/capnhat.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T04,train
+18,Quà tri ân dành riêng cho bạn: gói dữ liệu miễn phí. Xác nhận nhận quà tại https://ho-tro.example/capnhat.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T04,train
+19,"Sau giờ học, Quà tri ân dành riêng cho bạn: một điện thoại mới. Xác nhận nhận quà tại https://nhan-qua.example/xacnhan.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T04,train
+20,"Khi đang dùng điện thoại, Quà tri ân dành riêng cho bạn: voucher mua sắm. Xác nhận nhận quà tại https://phan-thuong.example/nhanqua.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T04,train
+21,Bạn vừa được chọn trong chương trình quay số và nhận 2 triệu đồng; nhập thông tin cá nhân để nhận ngay.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T05,train
+22,"Qua hộp thư, Bạn vừa được chọn trong chương trình quay số và nhận một điện thoại mới; nhập thông tin cá nhân để nhận ngay.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T05,train
+23,"Buổi sáng, Bạn vừa được chọn trong chương trình quay số và nhận một điện thoại mới; nhập thông tin cá nhân để nhận ngay.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T05,train
+24,"Trong một cuộc trò chuyện, Bạn vừa được chọn trong chương trình quay số và nhận học bổng đặc biệt; nhập thông tin cá nhân để nhận ngay.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T05,train
+25,"Trong một cuộc trò chuyện, Bạn vừa được chọn trong chương trình quay số và nhận một điện thoại mới; nhập thông tin cá nhân để nhận ngay.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T05,train
+26,"Buổi sáng, Thông báo nhận thưởng: 2 triệu đồng. Xin xin vui lòng thanh toán một khoản phí nhỏ và bấm vào đường link.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T06,train
+27,Thông báo nhận thưởng: thẻ game trị giá cao. Vui lòng thanh toán một khoản phí nhỏ và nhấn vào liên kết.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T06,train
+28,Thông báo nhận thưởng: voucher mua sắm. Xin xin vui lòng thanh toán một khoản phí nhỏ và bấm vào đường link.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T06,train
+29,"Sau giờ học, Thông báo nhận thưởng: voucher mua sắm. Vui lòng thanh toán một khoản phí nhỏ và xác minh qua trang web.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T06,train
+30,"Buổi sáng, Thông báo nhận thưởng: học bổng đặc biệt. Xin xin vui lòng thanh toán một khoản phí nhỏ và đăng nhập qua đường dẫn.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T06,train
+31,Mã khách hàng của bạn được chọn nhận một điện thoại mới; truy cập https://phan-thuong.example/nhanqua để hoàn tất thủ tục.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T07,train
+32,"Qua hộp thư, Mã khách hàng của bạn được chọn nhận quà tri ân khách hàng; truy cập https://bao-mat.example/dangnhap để hoàn tất thủ tục.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T07,train
+33,"Buổi tối, Mã khách hàng của bạn được chọn nhận học bổng đặc biệt; truy cập https://phan-thuong.example/nhanqua để hoàn tất thủ tục.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T07,train
+34,Mã khách hàng của bạn được chọn nhận quà tri ân khách hàng; truy cập https://nhan-qua.example/xacnhan để hoàn tất thủ tục.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T07,train
+35,"Khi đang dùng điện thoại, Mã khách hàng của bạn được chọn nhận 2 triệu đồng; truy cập https://nhan-qua.example/xacnhan để hoàn tất thủ tục.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,medium,LD1_REWARD_T07,train
+36,"Trong ứng dụng nhắn tin, Nhận 5 triệu đồng miễn phí khi xác minh tài khoản ngay hôm nay.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T08,validation
+37,Nhận quà tri ân khách hàng miễn phí khi xác minh tài khoản trong 10 phút.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T08,validation
+38,Nhận học bổng đặc biệt miễn phí khi xác minh tài khoản trong vòng 30 phút.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T08,validation
+39,Nhận học bổng đặc biệt miễn phí khi xác minh tài khoản trong 5 phút.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T08,validation
+40,"Buổi sáng, Nhận quà tri ân khách hàng miễn phí khi xác minh tài khoản trong 5 phút.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T08,validation
+41,Chỉ hôm nay: tài khoản của bạn đủ điều kiện nhận 5 triệu đồng; hãy bấm vào đường link để kích hoạt.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T09,validation
+42,"Qua hộp thư, Chỉ hôm nay: tài khoản của bạn đủ điều kiện nhận quà tri ân khách hàng; hãy đăng nhập qua đường dẫn để kích hoạt.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T09,validation
+43,Chỉ hôm nay: tài khoản của bạn đủ điều kiện nhận học bổng đặc biệt; hãy đăng nhập qua đường dẫn để kích hoạt.,1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T09,validation
+44,"Sau giờ học, Chỉ hôm nay: tài khoản của bạn đủ điều kiện nhận một điện thoại mới; hãy xác minh qua trang web để kích hoạt.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T09,validation
+45,"Trong một cuộc trò chuyện, Chỉ hôm nay: tài khoản của bạn đủ điều kiện nhận 5 triệu đồng; hãy nhấn vào liên kết để kích hoạt.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T09,validation
+46,"Phần quà một điện thoại mới đang chờ xác nhận. Nếu không nhấn vào liên kết ngay hôm nay, quyền nhận sẽ bị hủy.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T10,test
+47,"Sau giờ học, Phần quà một điện thoại mới đang chờ xác nhận. Nếu không nhấn vào liên kết trong vòng 30 phút, quyền nhận sẽ bị hủy.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T10,test
+48,"Khi đang dùng điện thoại, Phần quà quà tri ân khách hàng đang chờ xác nhận. Nếu không nhấn vào liên kết trong 5 phút, quyền nhận sẽ bị hủy.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T10,test
+49,"Phần quà voucher mua sắm đang chờ xác nhận. Nếu không điền biểu mẫu trước 18 giờ, quyền nhận sẽ bị hủy.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T10,test
+50,"Sau giờ học, Phần quà 5 triệu đồng đang chờ xác nhận. Nếu không mở liên kết lập tức lập tức, quyền nhận sẽ bị hủy.",1,LD1_REWARD,reward;link;personal_info,synthetic_for_research,hard,LD1_REWARD_T10,test
+51,"Khi đang dùng điện thoại, đơn vị giao hàng thông báo hồ sơ của bạn chưa được xác minh; hãy đăng nhập qua đường dẫn tại https://bao-mat.example/dangnhap.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T01,train
+52,"Buổi tối, ngân hàng thông báo hồ sơ của bạn chưa được xác minh; hãy mở liên kết tại https://nhan-qua.example/xacnhan.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T01,train
+53,nhà mạng thông báo hồ sơ của bạn chưa được xác minh; hãy xác minh qua trang web tại https://phan-thuong.example/nhanqua.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T01,train
+54,đơn vị giao hàng thông báo hồ sơ của bạn chưa được xác minh; hãy bấm vào đường link tại https://phan-thuong.example/nhanqua.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T01,train
+55,"Qua hộp thư, đơn vị giao hàng thông báo hồ sơ của bạn chưa được xác minh; hãy bấm vào liên kết tại https://ho-tro.example/capnhat.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T01,train
+56,"Buổi sáng, Bộ phận hỗ trợ ngân hàng yêu cầu cập nhật thông tin cá nhân trong vòng 30 phút để tránh gián đoạn dịch vụ.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T02,train
+57,"Trong một cuộc trò chuyện, Bộ phận hỗ trợ nhà mạng đề nghị cập nhật thông tin cá nhân trước 18 giờ để tránh gián đoạn dịch vụ.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T02,train
+58,Bộ phận hỗ trợ trung tâm hỗ trợ tài khoản yêu cầu cập nhật thông tin cá nhân trong 10 phút để tránh gián đoạn dịch vụ.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T02,train
+59,Bộ phận hỗ trợ trung tâm hỗ trợ tài khoản yêu cầu cập nhật thông tin cá nhân trong vòng 30 phút để tránh gián đoạn dịch vụ.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T02,train
+60,Bộ phận hỗ trợ trung tâm hỗ trợ tài khoản yêu cầu cập nhật thông tin cá nhân trước 18 giờ để tránh gián đoạn dịch vụ.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T02,train
+61,"Sau giờ học, Có giao dịch bất thường trên hệ thống ngân hàng; vui lòng đăng nhập bằng liên kết https://phan-thuong.example/nhanqua để kiểm tra.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T03,train
+62,Có giao dịch bất thường trên hệ thống ngân hàng; vui lòng đăng nhập bằng liên kết https://xac-minh.example/kiemtra để kiểm tra.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T03,train
+63,"Qua hộp thư, Có giao dịch bất thường trên hệ thống sàn thương mại điện tử; vui lòng đăng nhập bằng liên kết https://xac-minh.example/kiemtra để kiểm tra.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T03,train
+64,"Trong ứng dụng nhắn tin, Có giao dịch bất thường trên hệ thống trung tâm hỗ trợ tài khoản; xin vui lòng đăng nhập bằng liên kết https://xac-minh.example/kiemtra để kiểm tra.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T03,train
+65,Có giao dịch bất thường trên hệ thống sàn thương mại điện tử; vui lòng đăng nhập bằng liên kết https://phan-thuong.example/nhanqua để kiểm tra.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,easy,LD2_ORG_IMPERSONATION_T03,train
+66,"Trong ứng dụng nhắn tin, Nhân viên đơn vị giao hàng đề nghị bạn cung cấp số thẻ và mã xác thực để hoàn tất đối soát.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T04,train
+67,Nhân viên nhà mạng đề nghị bạn cung cấp số thẻ và mã xác thực để hoàn tất đối soát.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T04,train
+68,Nhân viên trung tâm hỗ trợ tài khoản đề nghị bạn cung cấp số thẻ và mã xác thực để hoàn tất đối soát.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T04,train
+69,"Trong ứng dụng nhắn tin, Nhân viên bưu điện đề nghị bạn cung cấp số thẻ và mã xác thực để hoàn tất đối soát.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T04,train
+70,Nhân viên bưu điện đề nghị bạn cung cấp số thẻ và mã xác thực để hoàn tất đối soát.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T04,train
+71,"Khi đang dùng điện thoại, ngân hàng thông báo bạn còn một khoản phí chưa xử lý; thanh toán qua đường dẫn được gửi trong tin nhắn.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T05,train
+72,ngân hàng thông báo bạn còn một khoản phí chưa xử lý; thanh toán qua đường dẫn được gửi trong tin nhắn.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T05,train
+73,"Qua hộp thư, sàn thương mại điện tử thông báo bạn còn một khoản phí chưa xử lý; thanh toán qua đường dẫn được gửi trong tin nhắn.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T05,train
+74,sàn thương mại điện tử thông báo bạn còn một khoản phí chưa xử lý; thanh toán qua đường dẫn được gửi trong tin nhắn.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T05,train
+75,"Buổi sáng, trung tâm hỗ trợ tài khoản thông báo bạn còn một khoản phí chưa xử lý; thanh toán qua đường dẫn được gửi trong tin nhắn.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T05,train
+76,"Buổi sáng, Tài khoản của bạn tại ngân hàng cần định danh lại; hãy điền CCCD và thông tin tài khoản tại https://xac-minh.example/kiemtra.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T06,train
+77,"Khi đang dùng điện thoại, Tài khoản của bạn tại trung tâm hỗ trợ tài khoản cần định danh lại; hãy điền CCCD và thông tin tài khoản tại https://bao-mat.example/dangnhap.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T06,train
+78,Tài khoản của bạn tại nhà mạng cần định danh lại; hãy điền CCCD và thông tin tài khoản tại https://xac-minh.example/kiemtra.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T06,train
+79,"Qua hộp thư, Tài khoản của bạn tại sàn thương mại điện tử cần định danh lại; hãy điền CCCD và thông tin tài khoản tại https://ho-tro.example/capnhat.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T06,train
+80,"Buổi tối, Tài khoản của bạn tại sàn thương mại điện tử cần định danh lại; hãy điền CCCD và thông tin tài khoản tại https://xac-minh.example/kiemtra.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T06,train
+81,Tin khẩn từ bưu điện: dịch vụ sẽ tạm ngừng nếu bạn không xác nhận thông tin trước 18 giờ.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T07,train
+82,Tin khẩn từ ngân hàng: dịch vụ sẽ tạm ngừng nếu bạn không xác nhận thông tin trong vòng 30 phút.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T07,train
+83,"Buổi tối, Tin khẩn từ sàn thương mại điện tử: dịch vụ sẽ tạm ngừng nếu bạn không xác nhận thông tin ngay hôm nay.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T07,train
+84,Tin khẩn từ đơn vị giao hàng: dịch vụ sẽ tạm ngừng nếu bạn không xác nhận thông tin trong 10 phút.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T07,train
+85,"Buổi sáng, Tin khẩn từ bưu điện: dịch vụ sẽ tạm ngừng nếu bạn không xác nhận thông tin trước 18 giờ.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,medium,LD2_ORG_IMPERSONATION_T07,train
+86,"Sau giờ học, Hỗ trợ viên tự xưng từ ngân hàng đề nghị cài ứng dụng từ một đường link để xử lý sự cố.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T08,validation
+87,Hỗ trợ viên tự xưng từ đơn vị giao hàng đề nghị cài ứng dụng từ một đường link để xử lý sự cố.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T08,validation
+88,Hỗ trợ viên tự xưng từ bưu điện đề nghị cài ứng dụng từ một đường link để xử lý sự cố.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T08,validation
+89,Hỗ trợ viên tự xưng từ ngân hàng đề nghị cài ứng dụng từ một đường link để xử lý sự cố.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T08,validation
+90,Hỗ trợ viên tự xưng từ nhà mạng đề nghị cài ứng dụng từ một đường link để xử lý sự cố.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T08,validation
+91,"Trong lúc kiểm tra thông báo, bưu điện thông báo hoàn tiền cho bạn; hãy nhập thông tin thẻ tại https://ho-tro.example/capnhat để nhận tiền.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T09,test
+92,bưu điện thông báo hoàn tiền cho bạn; hãy nhập thông tin thẻ tại https://phan-thuong.example/nhanqua để nhận tiền.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T09,test
+93,trung tâm hỗ trợ tài khoản thông báo hoàn tiền cho bạn; hãy nhập thông tin thẻ tại https://ho-tro.example/capnhat để nhận tiền.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T09,test
+94,"Trong một cuộc trò chuyện, ngân hàng thông báo hoàn tiền cho bạn; hãy nhập thông tin thẻ tại https://nhan-qua.example/xacnhan để nhận tiền.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T09,test
+95,"Trong ứng dụng nhắn tin, ngân hàng thông báo hoàn tiền cho bạn; hãy nhập thông tin thẻ tại https://phan-thuong.example/nhanqua để nhận tiền.",1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T09,test
+96,Một tài khoản tự xưng là trung tâm hỗ trợ tài khoản đề nghị chuyển tiền vào tài khoản cá nhân để giải quyết hồ sơ.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T10,test
+97,Một tài khoản tự xưng là đơn vị giao hàng yêu cầu chuyển tiền vào tài khoản cá nhân để giải quyết hồ sơ.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T10,test
+98,Một tài khoản tự xưng là ngân hàng yêu cầu chuyển tiền vào tài khoản cá nhân để giải quyết hồ sơ.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T10,test
+99,Một tài khoản tự xưng là bưu điện yêu cầu chuyển tiền vào tài khoản cá nhân để giải quyết hồ sơ.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T10,test
+100,Một tài khoản tự xưng là sàn thương mại điện tử yêu cầu chuyển tiền vào tài khoản cá nhân để giải quyết hồ sơ.,1,LD2_ORG_IMPERSONATION,impersonation;link;personal_info,synthetic_for_research,hard,LD2_ORG_IMPERSONATION_T10,test
+101,"Trong một cuộc trò chuyện, Tài khoản của người quen nhắn rằng đang cần thanh toán gấp và nhờ bạn chuyển 300 nghìn đồng ngay.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T01,train
+102,"Trong một cuộc trò chuyện, Tài khoản của người thân nhắn rằng tài khoản ngân hàng đang lỗi và nhờ bạn chuyển 1 triệu đồng ngay.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T01,train
+103,Tài khoản của bạn thân nhắn rằng bị mất ví và nhờ bạn chuyển 300 nghìn đồng ngay.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T01,train
+104,Tài khoản của người quen nhắn rằng điện thoại sắp hết pin và nhờ bạn chuyển 200 nghìn đồng ngay.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T01,train
+105,Tài khoản của anh họ nhắn rằng đang kẹt ở ngoài đường và nhờ bạn chuyển 300 nghìn đồng ngay.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T01,train
+106,"người quen gửi tin nhắn hỏi vay 100 nghìn đồng, nói rằng sẽ trả lại vào tối nay và yêu cầu chuyển gấp.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T02,train
+107,"Sau giờ học, người thân gửi tin nhắn hỏi vay 300 nghìn đồng, nói rằng sẽ trả lại vào tối nay và yêu cầu chuyển gấp.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T02,train
+108,"bạn cùng lớp gửi tin nhắn hỏi vay 100 nghìn đồng, nói rằng sẽ trả lại vào tối nay và yêu cầu chuyển gấp.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T02,train
+109,"Trong một cuộc trò chuyện, chị họ gửi tin nhắn hỏi vay 500 nghìn đồng, nói rằng sẽ trả lại vào tối nay và yêu cầu chuyển gấp.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T02,train
+110,"Qua hộp thư, anh họ gửi tin nhắn hỏi vay 300 nghìn đồng, nói rằng sẽ trả lại vào tối nay và yêu cầu chuyển gấp.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T02,train
+111,"Vào cuối ngày, Một tài khoản có ảnh đại diện giống bạn thân nhờ bạn mua hộ thẻ nạp rồi gửi mã lập tức.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T03,train
+112,"Sau giờ học, Một tài khoản có ảnh đại diện giống chị họ nhờ bạn mua hộ thẻ nạp rồi gửi mã ngay.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T03,train
+113,"Sau giờ học, Một tài khoản có ảnh đại diện giống người quen nhờ bạn mua hộ thẻ nạp rồi gửi mã lập tức.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T03,train
+114,"Trong ứng dụng nhắn tin, Một tài khoản có ảnh đại diện giống người thân nhờ bạn mua hộ thẻ nạp rồi gửi mã lập tức.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T03,train
+115,"Trong một cuộc trò chuyện, Một tài khoản có ảnh đại diện giống anh họ nhờ bạn mua hộ thẻ nạp rồi gửi mã ngay.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,easy,LD3_FRIEND_IMPERSONATION_T03,train
+116,"Qua hộp thư, anh họ nhắn từ tài khoản mới, nói bị mất điện thoại và đề nghị bạn chuyển tiền vào tài khoản lạ.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T04,train
+117,"chị họ nhắn từ tài khoản mới, nói bị mất điện thoại và đề nghị bạn chuyển tiền vào tài khoản lạ.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T04,train
+118,"người thân nhắn từ tài khoản mới, nói bị mất điện thoại và đề nghị bạn chuyển tiền vào tài khoản lạ.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T04,train
+119,"người quen nhắn từ tài khoản mới, nói bị mất điện thoại và đề nghị bạn chuyển tiền vào tài khoản lạ.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T04,train
+120,"Trong một cuộc trò chuyện, bạn cùng lớp nhắn từ tài khoản mới, nói bị mất điện thoại và đề nghị bạn chuyển tiền vào tài khoản lạ.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T04,train
+121,"Trong ứng dụng nhắn tin, Người tự xưng là bạn thân nói đang kẹt ở ngoài đường; yêu cầu bạn không gọi điện mà chỉ chuyển khoản.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T05,train
+122,"Trong ứng dụng nhắn tin, Người tự xưng là anh họ nói bị mất ví; yêu cầu bạn không gọi điện mà chỉ chuyển khoản.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T05,train
+123,Người tự xưng là bạn thân nói đang kẹt ở ngoài đường; yêu cầu bạn không gọi điện mà chỉ chuyển khoản.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T05,train
+124,Người tự xưng là anh họ nói điện thoại sắp hết pin; yêu cầu bạn không gọi điện mà chỉ chuyển khoản.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T05,train
+125,"Sau giờ học, Người tự xưng là chị họ nói đang cần thanh toán gấp; yêu cầu bạn không gọi điện mà chỉ chuyển khoản.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T05,train
+126,"Buổi sáng, Tài khoản của người thân bất ngờ hỏi mã xác thực để “lấy lại tài khoản”.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T06,train
+127,Tài khoản của người quen bất ngờ hỏi mã xác thực để “lấy lại tài khoản”.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T06,train
+128,Tài khoản của anh họ bất ngờ hỏi mã xác thực để “lấy lại tài khoản”.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T06,train
+129,"Buổi tối, Tài khoản của anh họ bất ngờ hỏi mã xác thực để “lấy lại tài khoản”.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T06,train
+130,"Buổi sáng, Tài khoản của bạn cùng lớp bất ngờ hỏi mã xác thực để “lấy lại tài khoản”.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T06,train
+131,"Trong lúc kiểm tra thông báo, anh họ nhắn cần thanh toán viện phí trong vòng 30 phút, đề nghị chuyển 200 nghìn đồng vào số tài khoản khác tên.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T07,train
+132,"Trong ứng dụng nhắn tin, bạn cùng lớp nhắn cần thanh toán viện phí lập tức hôm nay, đề nghị chuyển 100 nghìn đồng vào số tài khoản khác tên.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T07,train
+133,"người thân nhắn cần thanh toán viện phí trong vòng 30 phút, đề nghị chuyển 300 nghìn đồng vào số tài khoản khác tên.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T07,train
+134,"Trong lúc kiểm tra thông báo, người thân nhắn cần thanh toán viện phí ngay hôm nay, đề nghị chuyển 200 nghìn đồng vào số tài khoản khác tên.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T07,train
+135,"chị họ nhắn cần thanh toán viện phí trước 18 giờ, đề nghị chuyển 100 nghìn đồng vào số tài khoản khác tên.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,medium,LD3_FRIEND_IMPERSONATION_T07,train
+136,Một người dùng tên giống chị họ nhờ bạn bấm link bình chọn và đăng nhập tài khoản mạng xã hội.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T08,validation
+137,Một người dùng tên giống anh họ nhờ bạn bấm link bình chọn và đăng nhập tài khoản mạng xã hội.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T08,validation
+138,"Buổi tối, Một người dùng tên giống bạn thân nhờ bạn bấm link bình chọn và đăng nhập tài khoản mạng xã hội.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T08,validation
+139,"Vào cuối ngày, Một người dùng tên giống anh họ nhờ bạn bấm link bình chọn và đăng nhập tài khoản mạng xã hội.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T08,validation
+140,"Trong lúc kiểm tra thông báo, Một người dùng tên giống người thân nhờ bạn bấm link bình chọn và đăng nhập tài khoản mạng xã hội.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T08,validation
+141,người thân nhắn rằng đang tham gia chương trình nhận quà và cần bạn gửi mã OTP để hỗ trợ.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T09,validation
+142,"Qua hộp thư, bạn thân nhắn rằng đang tham gia chương trình nhận quà và cần bạn gửi mã OTP để hỗ trợ.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T09,validation
+143,người quen nhắn rằng đang tham gia chương trình nhận quà và cần bạn gửi mã OTP để hỗ trợ.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T09,validation
+144,"Buổi sáng, người thân nhắn rằng đang tham gia chương trình nhận quà và cần bạn gửi mã OTP để hỗ trợ.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T09,validation
+145,"Qua hộp thư, bạn cùng lớp nhắn rằng đang tham gia chương trình nhận quà và cần bạn gửi mã OTP để hỗ trợ.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T09,validation
+146,"Trong một cuộc trò chuyện, Tài khoản tự nhận là anh họ yêu cầu bạn giữ bí mật và chuyển 100 nghìn đồng vì “việc rất gấp”.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T10,test
+147,"Qua hộp thư, Tài khoản tự nhận là chị họ đề nghị bạn giữ bí mật và chuyển 500 nghìn đồng vì “việc rất gấp”.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T10,test
+148,Tài khoản tự nhận là người quen yêu cầu bạn giữ bí mật và chuyển 100 nghìn đồng vì “việc rất gấp”.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T10,test
+149,Tài khoản tự nhận là bạn thân yêu cầu bạn giữ bí mật và chuyển 300 nghìn đồng vì “việc rất gấp”.,1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T10,test
+150,"Qua hộp thư, Tài khoản tự nhận là người quen yêu cầu bạn giữ bí mật và chuyển 1 triệu đồng vì “việc rất gấp”.",1,LD3_FRIEND_IMPERSONATION,impersonation;urgency;money,synthetic_for_research,hard,LD3_FRIEND_IMPERSONATION_T10,test
+151,"Vào cuối ngày, Vui lòng gửi mã OTP vừa được gửi về điện thoại để hoàn tất xác minh tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T01,train
+152,"Sau giờ học, Vui lòng gửi mã OTP vừa được gửi về điện thoại để hoàn tất xác minh tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T01,train
+153,"Buổi sáng, Vui lòng gửi mã OTP vừa được gửi về điện thoại để hoàn tất xác minh tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T01,train
+154,"Qua hộp thư, Vui lòng gửi mã OTP vừa được gửi về điện thoại để hoàn tất xác minh tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T01,train
+155,"Khi đang dùng điện thoại, Vui lòng gửi mã OTP vừa được gửi về điện thoại để hoàn tất xác minh tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T01,train
+156,"Sau giờ học, Nhân viên hỗ trợ đề nghị bạn đọc mã OTP để kiểm tra danh tính.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T02,train
+157,"Trong lúc kiểm tra thông báo, Nhân viên hỗ trợ yêu cầu bạn đọc mã OTP để kiểm tra danh tính.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T02,train
+158,"Trong một cuộc trò chuyện, Nhân viên hỗ trợ yêu cầu bạn đọc mã OTP để kiểm tra danh tính.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T02,train
+159,"Khi đang dùng điện thoại, Nhân viên hỗ trợ yêu cầu bạn đọc mã OTP để kiểm tra danh tính.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T02,train
+160,"Trong một cuộc trò chuyện, Nhân viên hỗ trợ đề nghị bạn đọc mã OTP để kiểm tra danh tính.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T02,train
+161,"Buổi tối, Hãy cung cấp mật khẩu và mã xác thực để kích hoạt lại tài khoản học tập.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T03,train
+162,"Trong ứng dụng nhắn tin, Hãy cung cấp mật khẩu và mã xác thực để kích hoạt lại ứng dụng ngân hàng.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T03,train
+163,Hãy cung cấp mật khẩu và mã xác thực để kích hoạt lại tài khoản email.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T03,train
+164,"Sau giờ học, Hãy cung cấp mật khẩu và mã xác thực để kích hoạt lại tài khoản trò chơi.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T03,train
+165,Hãy cung cấp mật khẩu và mã xác thực để kích hoạt lại tài khoản học tập.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,easy,LD4_OTP_PASSWORD_T03,train
+166,"Trong ứng dụng nhắn tin, Gửi ảnh màn hình có mã OTP để nhận lại quyền truy cập tài khoản học tập.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T04,train
+167,"Trong lúc kiểm tra thông báo, Gửi ảnh màn hình có mã OTP để nhận lại quyền truy cập ví điện tử.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T04,train
+168,"Khi đang dùng điện thoại, Gửi ảnh màn hình có mã OTP để nhận lại quyền truy cập ứng dụng ngân hàng.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T04,train
+169,"Sau giờ học, Gửi ảnh màn hình có mã OTP để nhận lại quyền truy cập tài khoản trò chơi.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T04,train
+170,Gửi ảnh màn hình có mã OTP để nhận lại quyền truy cập tài khoản email.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T04,train
+171,"Để nhận quà tri ân khách hàng, bạn cần nhập mật khẩu và OTP vào biểu mẫu được gửi.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T05,train
+172,"Để nhận voucher mua sắm, bạn cần nhập mật khẩu và OTP vào biểu mẫu được gửi.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T05,train
+173,"Qua hộp thư, Để nhận 2 triệu đồng, bạn cần nhập mật khẩu và OTP vào biểu mẫu được gửi.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T05,train
+174,"Qua hộp thư, Để nhận quà tri ân khách hàng, bạn cần nhập mật khẩu và OTP vào biểu mẫu được gửi.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T05,train
+175,"Để nhận 2 triệu đồng, bạn cần nhập mật khẩu và OTP vào biểu mẫu được gửi.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T05,train
+176,"Trong ứng dụng nhắn tin, Tài khoản ví điện tử đang lỗi; phản hồi tin nhắn này bằng mật khẩu để được hỗ trợ.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T06,train
+177,"Trong lúc kiểm tra thông báo, Tài khoản tài khoản học tập đang lỗi; phản hồi tin nhắn này bằng mật khẩu để được hỗ trợ.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T06,train
+178,Tài khoản ví điện tử đang lỗi; phản hồi tin nhắn này bằng mật khẩu để được hỗ trợ.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T06,train
+179,Tài khoản tài khoản trò chơi đang lỗi; phản hồi tin nhắn này bằng mật khẩu để được hỗ trợ.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T06,train
+180,Tài khoản tài khoản học tập đang lỗi; phản hồi tin nhắn này bằng mật khẩu để được hỗ trợ.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T06,train
+181,"Trong lúc kiểm tra thông báo, Quản trị viên yêu cầu mã OTP vì cần “đồng bộ dữ liệu” cho tài khoản mạng xã hội.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T07,train
+182,Quản trị viên yêu cầu mã OTP vì cần “đồng bộ dữ liệu” cho tài khoản email.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T07,train
+183,"Buổi tối, Quản trị viên đề nghị mã OTP vì cần “đồng bộ dữ liệu” cho tài khoản email.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T07,train
+184,Quản trị viên đề nghị mã OTP vì cần “đồng bộ dữ liệu” cho tài khoản học tập.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T07,train
+185,Quản trị viên yêu cầu mã OTP vì cần “đồng bộ dữ liệu” cho ví điện tử.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,medium,LD4_OTP_PASSWORD_T07,train
+186,Đăng nhập vào https://ho-tro.example/capnhat và nhập mật khẩu cùng mã OTP để mở khóa.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T08,validation
+187,Đăng nhập vào https://phan-thuong.example/nhanqua và nhập mật khẩu cùng mã OTP để mở khóa.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T08,validation
+188,Đăng nhập vào https://xac-minh.example/kiemtra và nhập mật khẩu cùng mã OTP để mở khóa.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T08,validation
+189,Đăng nhập vào https://bao-mat.example/dangnhap và nhập mật khẩu cùng mã OTP để mở khóa.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T08,validation
+190,"Trong ứng dụng nhắn tin, Đăng nhập vào https://xac-minh.example/kiemtra và nhập mật khẩu cùng mã OTP để mở khóa.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T08,validation
+191,"Khi đang dùng điện thoại, Hệ thống yêu cầu xác minh hai bước; gửi mã xác thực cho người hỗ trợ trong vòng 30 phút.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T09,test
+192,Hệ thống yêu cầu xác minh hai bước; gửi mã xác thực cho người hỗ trợ trong 10 phút.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T09,test
+193,"Qua hộp thư, Hệ thống đề nghị xác minh hai bước; gửi mã xác thực cho người hỗ trợ trước 18 giờ.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T09,test
+194,Hệ thống yêu cầu xác minh hai bước; gửi mã xác thực cho người hỗ trợ ngay hôm nay.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T09,test
+195,Hệ thống đề nghị xác minh hai bước; gửi mã xác thực cho người hỗ trợ ngay lập tức.,1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T09,test
+196,"Trong lúc kiểm tra thông báo, Bạn được đề nghị cung cấp cả tên đăng nhập, mật khẩu và OTP để nhận lại tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T10,test
+197,"Vào cuối ngày, Bạn được yêu cầu cung cấp cả tên đăng nhập, mật khẩu và OTP để nhận lại tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T10,test
+198,"Buổi tối, Bạn được đề nghị cung cấp cả tên đăng nhập, mật khẩu và OTP để nhận lại tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T10,test
+199,"Khi đang dùng điện thoại, Bạn được yêu cầu cung cấp cả tên đăng nhập, mật khẩu và OTP để nhận lại tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T10,test
+200,"Trong ứng dụng nhắn tin, Bạn được yêu cầu cung cấp cả tên đăng nhập, mật khẩu và OTP để nhận lại tài khoản.",1,LD4_OTP_PASSWORD,otp;password;personal_info,synthetic_for_research,hard,LD4_OTP_PASSWORD_T10,test
+201,Bạn nhận được đường link https://ho-tro.example/capnhat kèm lời nhắn “xem ảnh của bạn ở đây” và yêu cầu đăng nhập.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T01,train
+202,"Trong lúc kiểm tra thông báo, Bạn nhận được đường link https://nhan-qua.example/xacnhan kèm lời nhắn “xem ảnh của bạn ở đây” và đề nghị đăng nhập.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T01,train
+203,Bạn nhận được liên kết https://xac-minh.example/kiemtra kèm lời nhắn “xem ảnh của bạn ở đây” và yêu cầu đăng nhập.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T01,train
+204,Bạn nhận được đường link https://bao-mat.example/dangnhap kèm lời nhắn “xem ảnh của bạn ở đây” và yêu cầu đăng nhập.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T01,train
+205,Bạn nhận được đường link https://nhan-qua.example/xacnhan kèm lời nhắn “xem ảnh của bạn ở đây” và yêu cầu đăng nhập.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T01,train
+206,"Trong một cuộc trò chuyện, Tin nhắn mời bạn bình chọn cho bạn bè tại https://bao-mat.example/dangnhap rồi đăng nhập bằng tài khoản mạng xã hội.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T02,train
+207,"Buổi tối, Nội dung tin nhắn mời bạn bình chọn cho bạn bè tại https://phan-thuong.example/nhanqua rồi đăng nhập bằng tài khoản mạng xã hội.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T02,train
+208,Tin nhắn mời bạn bình chọn cho bạn bè tại https://ho-tro.example/capnhat rồi đăng nhập bằng tài khoản mạng xã hội.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T02,train
+209,"Sau giờ học, Tin nhắn mời bạn bình chọn cho bạn bè tại https://bao-mat.example/dangnhap rồi đăng nhập bằng tài khoản mạng xã hội.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T02,train
+210,"Qua hộp thư, Tin nhắn mời bạn bình chọn cho bạn bè tại https://xac-minh.example/kiemtra rồi đăng nhập bằng tài khoản mạng xã hội.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T02,train
+211,"Trong một cuộc trò chuyện, Một liên kết lạ được gửi kèm nội dung “xem kết quả học tập ngay”, yêu cầu nhập mật khẩu.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T03,train
+212,"Qua hộp thư, Một liên kết lạ được gửi kèm nội dung “xem kết quả học tập ngay”, yêu cầu nhập mật khẩu.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T03,train
+213,"Khi đang dùng điện thoại, Một liên kết lạ được gửi kèm nội dung “xem kết quả học tập ngay”, yêu cầu nhập mật khẩu.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T03,train
+214,"Buổi tối, Một liên kết lạ được gửi kèm nội dung “xem kết quả học tập ngay”, yêu cầu nhập mật khẩu.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T03,train
+215,"Vào cuối ngày, Một liên kết lạ được gửi kèm nội dung “xem kết quả học tập ngay”, yêu cầu nhập mật khẩu.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,easy,LD5_SUSPICIOUS_LINK_T03,train
+216,Thông báo giao hàng đề nghị bạn mở https://ho-tro.example/capnhat để cập nhật địa chỉ và thông tin thanh toán.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T04,train
+217,Thông báo giao hàng yêu cầu bạn mở https://bao-mat.example/dangnhap để cập nhật địa chỉ và thông tin thanh toán.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T04,train
+218,Thông báo giao hàng yêu cầu bạn mở https://ho-tro.example/capnhat để cập nhật địa chỉ và thông tin thanh toán.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T04,train
+219,"Trong lúc kiểm tra thông báo, Thông báo giao hàng yêu cầu bạn mở https://xac-minh.example/kiemtra để cập nhật địa chỉ và thông tin thanh toán.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T04,train
+220,Thông báo giao hàng yêu cầu bạn mở https://phan-thuong.example/nhanqua để cập nhật địa chỉ và thông tin thanh toán.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T04,train
+221,"Buổi tối, Tin nhắn báo có tài liệu miễn phí tại https://bao-mat.example/dangnhap nhưng trang yêu cầu đăng nhập tài khoản email.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T05,train
+222,Tin nhắn báo có tài liệu miễn phí tại https://bao-mat.example/dangnhap nhưng trang yêu cầu đăng nhập tài khoản email.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T05,train
+223,Tin nhắn báo có tài liệu miễn phí tại https://xac-minh.example/kiemtra nhưng trang yêu cầu đăng nhập tài khoản email.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T05,train
+224,"Vào cuối ngày, Tin nhắn báo có tài liệu miễn phí tại https://phan-thuong.example/nhanqua nhưng trang đề nghị đăng nhập tài khoản email.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T05,train
+225,Tin nhắn báo có tài liệu miễn phí tại https://nhan-qua.example/xacnhan nhưng trang yêu cầu đăng nhập tài khoản email.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T05,train
+226,Bạn được yêu cầu tải tệp từ https://ho-tro.example/capnhat và cài ứng dụng ngoài kho ứng dụng chính thức.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T06,train
+227,"Sau giờ học, Bạn được yêu cầu tải tệp từ https://ho-tro.example/capnhat và cài ứng dụng ngoài kho ứng dụng chính thức.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T06,train
+228,"Qua hộp thư, Bạn được yêu cầu tải tệp từ https://xac-minh.example/kiemtra và cài ứng dụng ngoài kho ứng dụng chính thức.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T06,train
+229,"Buổi sáng, Bạn được yêu cầu tải tệp từ https://ho-tro.example/capnhat và cài ứng dụng ngoài kho ứng dụng chính thức.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T06,train
+230,"Buổi sáng, Bạn được yêu cầu tải tệp từ https://bao-mat.example/dangnhap và cài ứng dụng ngoài kho ứng dụng chính thức.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T06,train
+231,Tin nhắn “xem video này có phải bạn không?” kèm https://phan-thuong.example/nhanqua đề nghị xác thực tài khoản.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T07,train
+232,"Sau giờ học, Nội dung tin nhắn “xem video này có phải bạn không?” kèm https://ho-tro.example/capnhat yêu cầu xác thực tài khoản.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T07,train
+233,Nội dung tin nhắn “xem video này có phải bạn không?” kèm https://nhan-qua.example/xacnhan yêu cầu xác thực tài khoản.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T07,train
+234,Tin nhắn “xem video này có phải bạn không?” kèm https://bao-mat.example/dangnhap yêu cầu xác thực tài khoản.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T07,train
+235,Tin nhắn “xem video này có phải bạn không?” kèm https://nhan-qua.example/xacnhan yêu cầu xác thực tài khoản.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,medium,LD5_SUSPICIOUS_LINK_T07,train
+236,"Buổi tối, Một trang có địa chỉ gần giống trang quen thuộc yêu cầu bạn nhập tên đăng nhập và mật khẩu.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T08,validation
+237,Một trang có địa chỉ gần giống trang quen thuộc yêu cầu bạn nhập tên đăng nhập và mật khẩu.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T08,validation
+238,"Khi đang dùng điện thoại, Một trang có địa chỉ gần giống trang quen thuộc yêu cầu bạn nhập tên đăng nhập và mật khẩu.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T08,validation
+239,"Qua hộp thư, Một trang có địa chỉ gần giống trang quen thuộc yêu cầu bạn nhập tên đăng nhập và mật khẩu.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T08,validation
+240,"Vào cuối ngày, Một trang có địa chỉ gần giống trang quen thuộc yêu cầu bạn nhập tên đăng nhập và mật khẩu.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T08,validation
+241,"Bạn nhận đường dẫn nhận quà https://nhan-qua.example/xacnhan; trang yêu cầu số điện thoại, mật khẩu và mã xác thực.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T09,validation
+242,"Trong lúc kiểm tra thông báo, Bạn nhận đường dẫn nhận quà https://ho-tro.example/capnhat; trang yêu cầu số điện thoại, mật khẩu và mã xác thực.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T09,validation
+243,"Trong ứng dụng nhắn tin, Bạn nhận đường dẫn nhận quà https://nhan-qua.example/xacnhan; trang yêu cầu số điện thoại, mật khẩu và mã xác thực.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T09,validation
+244,"Qua hộp thư, Bạn nhận đường dẫn nhận quà https://bao-mat.example/dangnhap; trang yêu cầu số điện thoại, mật khẩu và mã xác thực.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T09,validation
+245,"Trong một cuộc trò chuyện, Bạn nhận đường dẫn nhận quà https://xac-minh.example/kiemtra; trang yêu cầu số điện thoại, mật khẩu và mã xác thực.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T09,validation
+246,"Qua hộp thư, Tin nhắn chứa liên kết lạ và nói rằng phải mở ngay lập tức để tránh mất quyền truy cập.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T10,test
+247,"Sau giờ học, Tin nhắn chứa liên kết lạ và nói rằng phải mở ngay hôm nay để tránh mất quyền truy cập.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T10,test
+248,Tin nhắn chứa liên kết lạ và nói rằng phải mở trước 18 giờ để tránh mất quyền truy cập.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T10,test
+249,"Khi đang dùng điện thoại, Tin nhắn chứa liên kết lạ và nói rằng phải mở trong 10 phút để tránh mất quyền truy cập.",1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T10,test
+250,Tin nhắn chứa liên kết lạ và nói rằng phải mở trong 5 phút để tránh mất quyền truy cập.,1,LD5_SUSPICIOUS_LINK,link;credential_theft,synthetic_for_research,hard,LD5_SUSPICIOUS_LINK_T10,test
+251,"Sau giờ học, tài khoản mạng xã hội của bạn sẽ bị khóa trong 10 phút; hãy mở liên kết để xác minh.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T01,train
+252,tài khoản email của bạn sẽ bị khóa ngay lập tức; hãy bấm vào đường link để xác minh.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T01,train
+253,ví điện tử của bạn sẽ bị khóa ngay hôm nay; hãy bấm vào đường link để xác minh.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T01,train
+254,"Trong lúc kiểm tra thông báo, tài khoản học tập của bạn sẽ bị khóa ngay hôm nay; hãy đăng nhập qua đường dẫn để xác minh.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T01,train
+255,tài khoản trò chơi của bạn sẽ bị khóa trước 18 giờ; hãy đăng nhập qua đường dẫn để xác minh.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T01,train
+256,Phát hiện đăng nhập bất thường trên tài khoản học tập; truy cập https://bao-mat.example/dangnhap để tránh bị vô hiệu hóa.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T02,train
+257,"Vào cuối ngày, Phát hiện đăng nhập bất thường trên tài khoản email; truy cập https://bao-mat.example/dangnhap để tránh bị vô hiệu hóa.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T02,train
+258,Phát hiện đăng nhập bất thường trên tài khoản trò chơi; truy cập https://nhan-qua.example/xacnhan để tránh bị vô hiệu hóa.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T02,train
+259,"Buổi sáng, Phát hiện đăng nhập bất thường trên tài khoản học tập; truy cập https://phan-thuong.example/nhanqua để tránh bị vô hiệu hóa.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T02,train
+260,"Buổi sáng, Phát hiện đăng nhập bất thường trên tài khoản trò chơi; truy cập https://bao-mat.example/dangnhap để tránh bị vô hiệu hóa.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T02,train
+261,Tài khoản ứng dụng ngân hàng vi phạm chính sách; đăng nhập bằng đường link được gửi để khôi phục.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T03,train
+262,Tài khoản tài khoản email vi phạm chính sách; đăng nhập bằng đường link được gửi để khôi phục.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T03,train
+263,"Vào cuối ngày, Tài khoản tài khoản mạng xã hội vi phạm chính sách; đăng nhập bằng liên kết được gửi để khôi phục.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T03,train
+264,Tài khoản tài khoản trò chơi vi phạm chính sách; đăng nhập bằng đường link được gửi để khôi phục.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T03,train
+265,Tài khoản tài khoản mạng xã hội vi phạm chính sách; đăng nhập bằng đường link được gửi để khôi phục.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,easy,LD6_ACCOUNT_LOCK_T03,train
+266,"Nếu không xác nhận thông tin trong 5 phút, ứng dụng ngân hàng sẽ bị xóa vĩnh viễn.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T04,train
+267,"Vào cuối ngày, Nếu không xác nhận thông tin trong 10 phút, ví điện tử sẽ bị xóa vĩnh viễn.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T04,train
+268,"Nếu không xác nhận thông tin ngay hôm nay, ứng dụng ngân hàng sẽ bị xóa vĩnh viễn.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T04,train
+269,"Nếu không xác nhận thông tin trong 5 phút, ví điện tử sẽ bị xóa vĩnh viễn.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T04,train
+270,"Khi đang dùng điện thoại, Nếu không xác nhận thông tin ngay lập tức, ví điện tử sẽ bị xóa vĩnh viễn.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T04,train
+271,Hệ thống cảnh báo tài khoản học tập đã bị báo cáo; bấm link và nhập mật khẩu để khiếu nại.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T05,train
+272,Hệ thống cảnh báo tài khoản trò chơi đã bị báo cáo; bấm link và nhập mật khẩu để khiếu nại.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T05,train
+273,"Sau giờ học, Hệ thống cảnh báo tài khoản trò chơi đã bị báo cáo; bấm link và nhập mật khẩu để khiếu nại.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T05,train
+274,Hệ thống cảnh báo tài khoản email đã bị báo cáo; bấm link và nhập mật khẩu để khiếu nại.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T05,train
+275,"Qua hộp thư, Hệ thống cảnh báo tài khoản trò chơi đã bị báo cáo; bấm link và nhập mật khẩu để khiếu nại.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T05,train
+276,"Trong lúc kiểm tra thông báo, Thông báo khẩn: tài khoản mạng xã hội hết hạn xác minh, hãy nhập lại thông tin tại https://nhan-qua.example/xacnhan.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T06,train
+277,"Trong lúc kiểm tra thông báo, Thông báo khẩn: tài khoản học tập hết hạn xác minh, hãy nhập lại thông tin tại https://xac-minh.example/kiemtra.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T06,train
+278,"Thông báo khẩn: tài khoản trò chơi hết hạn xác minh, hãy nhập lại thông tin tại https://phan-thuong.example/nhanqua.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T06,train
+279,"Qua hộp thư, Thông báo khẩn: ứng dụng ngân hàng hết hạn xác minh, hãy nhập lại thông tin tại https://ho-tro.example/capnhat.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T06,train
+280,"Buổi tối, Thông báo khẩn: ứng dụng ngân hàng hết hạn xác minh, hãy nhập lại thông tin tại https://ho-tro.example/capnhat.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T06,train
+281,"Trong ứng dụng nhắn tin, Bạn có 10 phút để mở khóa ví điện tử; cần cung cấp mã OTP cho nhân viên hỗ trợ.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T07,train
+282,Bạn có 10 phút để mở khóa tài khoản mạng xã hội; cần cung cấp mã OTP cho nhân viên hỗ trợ.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T07,train
+283,"Buổi sáng, Bạn có 10 phút để mở khóa tài khoản học tập; cần cung cấp mã OTP cho nhân viên hỗ trợ.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T07,train
+284,Bạn có 10 phút để mở khóa tài khoản trò chơi; cần cung cấp mã OTP cho nhân viên hỗ trợ.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T07,train
+285,Bạn có 10 phút để mở khóa ví điện tử; cần cung cấp mã OTP cho nhân viên hỗ trợ.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,medium,LD6_ACCOUNT_LOCK_T07,train
+286,"Trong một cuộc trò chuyện, Một tin nhắn nói tài khoản mạng xã hội bị xâm nhập và yêu cầu cài ứng dụng bảo mật từ link lạ.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T08,validation
+287,"Sau giờ học, Một tin nhắn nói tài khoản mạng xã hội bị xâm nhập và yêu cầu cài ứng dụng bảo mật từ link lạ.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T08,validation
+288,Một tin nhắn nói tài khoản mạng xã hội bị xâm nhập và yêu cầu cài ứng dụng bảo mật từ link lạ.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T08,validation
+289,"Qua hộp thư, Một tin nhắn nói ví điện tử bị xâm nhập và yêu cầu cài ứng dụng bảo mật từ link lạ.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T08,validation
+290,"Khi đang dùng điện thoại, Một tin nhắn nói tài khoản học tập bị xâm nhập và đề nghị cài ứng dụng bảo mật từ link lạ.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T08,validation
+291,"Vào cuối ngày, Tài khoản ứng dụng ngân hàng sắp bị giới hạn; hãy chuyển một khoản phí xác minh để tiếp tục sử dụng.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T09,test
+292,"Qua hộp thư, Tài khoản tài khoản email sắp bị giới hạn; hãy chuyển một khoản phí xác minh để tiếp tục sử dụng.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T09,test
+293,Tài khoản tài khoản mạng xã hội sắp bị giới hạn; hãy chuyển một khoản phí xác minh để tiếp tục sử dụng.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T09,test
+294,Tài khoản tài khoản trò chơi sắp bị giới hạn; hãy chuyển một khoản phí xác minh để tiếp tục sử dụng.,1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T09,test
+295,"Trong ứng dụng nhắn tin, Tài khoản ứng dụng ngân hàng sắp bị giới hạn; hãy chuyển một khoản phí xác minh để tiếp tục sử dụng.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T09,test
+296,"Trung tâm hỗ trợ thông báo tài khoản trò chơi bị treo, yêu cầu đăng nhập lại qua https://phan-thuong.example/nhanqua.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T10,test
+297,"Trung tâm hỗ trợ thông báo tài khoản email bị treo, đề nghị đăng nhập lại qua https://xac-minh.example/kiemtra.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T10,test
+298,"Trung tâm hỗ trợ thông báo tài khoản email bị treo, yêu cầu đăng nhập lại qua https://bao-mat.example/dangnhap.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T10,test
+299,"Trong ứng dụng nhắn tin, Trung tâm hỗ trợ thông báo ứng dụng ngân hàng bị treo, yêu cầu đăng nhập lại qua https://bao-mat.example/dangnhap.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T10,test
+300,"Trong ứng dụng nhắn tin, Trung tâm hỗ trợ thông báo tài khoản trò chơi bị treo, đề nghị đăng nhập lại qua https://xac-minh.example/kiemtra.",1,LD6_ACCOUNT_LOCK,account_lock;urgency;link,synthetic_for_research,hard,LD6_ACCOUNT_LOCK_T10,test
+301,"Trong ứng dụng nhắn tin, Tuyển nhập dữ liệu tại nhà, thu nhập cao; nạp trước 200 nghìn đồng để nhận nhiệm vụ đầu tiên.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T01,train
+302,"Tuyển đánh giá sản phẩm online, thu nhập cao; nạp trước 1 triệu đồng để nhận nhiệm vụ đầu tiên.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T01,train
+303,"Vào cuối ngày, Tuyển xử lý đơn hàng trực tuyến, thu nhập cao; nạp trước 500 nghìn đồng để nhận nhiệm vụ đầu tiên.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T01,train
+304,"Trong lúc kiểm tra thông báo, Tuyển cộng tác viên chốt đơn, thu nhập cao; nạp trước 100 nghìn đồng để nhận nhiệm vụ đầu tiên.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T01,train
+305,"Buổi tối, Tuyển cộng tác viên chốt đơn, thu nhập cao; nạp trước 100 nghìn đồng để nhận nhiệm vụ đầu tiên.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T01,train
+306,"Làm đầu tư theo nhóm tín hiệu tại nhà, mỗi ngày nhận tiền; cần đóng 1 triệu đồng phí kích hoạt tài khoản.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T02,train
+307,"Buổi sáng, Làm làm nhiệm vụ trên ứng dụng tại nhà, mỗi ngày nhận tiền; cần đóng 200 nghìn đồng phí kích hoạt tài khoản.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T02,train
+308,"Trong ứng dụng nhắn tin, Làm nhập dữ liệu tại nhà tại nhà, mỗi ngày nhận tiền; cần đóng 100 nghìn đồng phí kích hoạt tài khoản.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T02,train
+309,"Làm xử lý đơn hàng trực tuyến tại nhà, mỗi ngày nhận tiền; cần đóng 500 nghìn đồng phí kích hoạt tài khoản.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T02,train
+310,"Làm nhập dữ liệu tại nhà tại nhà, mỗi ngày nhận tiền; cần đóng 200 nghìn đồng phí kích hoạt tài khoản.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T02,train
+311,"Qua hộp thư, Cơ hội đầu tư lợi nhuận 30% mỗi tuần, chuyển 200 nghìn đồng để tham gia nhóm VIP.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T03,train
+312,"Khi đang dùng điện thoại, Cơ hội đầu tư lợi nhuận 30% mỗi tuần, chuyển 1 triệu đồng để tham gia nhóm VIP.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T03,train
+313,"Cơ hội đầu tư lợi nhuận 30% mỗi tuần, chuyển 300 nghìn đồng để tham gia nhóm VIP.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T03,train
+314,"Cơ hội đầu tư lợi nhuận 30% mỗi tuần, chuyển 500 nghìn đồng để tham gia nhóm VIP.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T03,train
+315,"Qua hộp thư, Cơ hội đầu tư lợi nhuận 30% mỗi tuần, chuyển 500 nghìn đồng để tham gia nhóm VIP.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,easy,LD7_JOB_INVESTMENT_T03,train
+316,Bạn được mời làm xử lý đơn hàng trực tuyến; muốn rút hoa hồng phải nạp thêm 100 nghìn đồng.,1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T04,train
+317,Bạn được mời làm làm nhiệm vụ trên ứng dụng; muốn rút hoa hồng phải nạp thêm 100 nghìn đồng.,1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T04,train
+318,"Buổi sáng, Bạn được mời làm cộng tác viên chốt đơn; muốn rút hoa hồng phải nạp thêm 500 nghìn đồng.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T04,train
+319,Bạn được mời làm xử lý đơn hàng trực tuyến; muốn rút hoa hồng phải nạp thêm 200 nghìn đồng.,1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T04,train
+320,"Trong một cuộc trò chuyện, Bạn được mời làm đầu tư theo nhóm tín hiệu; muốn rút hoa hồng phải nạp thêm 500 nghìn đồng.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T04,train
+321,Chương trình đầu tư cam kết không lỗ; chuyển tiền ngay lập tức để giữ suất.,1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T05,train
+322,"Trong lúc kiểm tra thông báo, Chương trình đầu tư cam kết không lỗ; chuyển tiền trong 5 phút để giữ suất.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T05,train
+323,"Sau giờ học, Chương trình đầu tư cam kết không lỗ; chuyển tiền ngay hôm nay để giữ suất.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T05,train
+324,"Buổi tối, Chương trình đầu tư cam kết không lỗ; chuyển tiền trong 5 phút để giữ suất.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T05,train
+325,"Trong một cuộc trò chuyện, Chương trình đầu tư cam kết không lỗ; chuyển tiền ngay lập tức để giữ suất.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T05,train
+326,Nhận việc online không cần kinh nghiệm; đóng phí hồ sơ 100 nghìn đồng rồi mới được giao việc.,1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T06,train
+327,"Vào cuối ngày, Nhận việc online không cần kinh nghiệm; đóng phí hồ sơ 100 nghìn đồng rồi mới được giao việc.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T06,train
+328,"Qua hộp thư, Nhận việc online không cần kinh nghiệm; đóng phí hồ sơ 500 nghìn đồng rồi mới được giao việc.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T06,train
+329,Nhận việc online không cần kinh nghiệm; đóng phí hồ sơ 300 nghìn đồng rồi mới được giao việc.,1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T06,train
+330,"Sau giờ học, Nhận việc online không cần kinh nghiệm; đóng phí hồ sơ 500 nghìn đồng rồi mới được giao việc.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T06,train
+331,"Hệ thống nhiệm vụ yêu cầu nạp 100 nghìn đồng, hoàn thành đơn sẽ được hoàn gấp ba.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T07,train
+332,"Buổi sáng, Hệ thống nhiệm vụ đề nghị nạp 200 nghìn đồng, hoàn thành đơn sẽ được hoàn gấp ba.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T07,train
+333,"Hệ thống nhiệm vụ yêu cầu nạp 500 nghìn đồng, hoàn thành đơn sẽ được hoàn gấp ba.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T07,train
+334,"Trong lúc kiểm tra thông báo, Hệ thống nhiệm vụ yêu cầu nạp 100 nghìn đồng, hoàn thành đơn sẽ được hoàn gấp ba.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T07,train
+335,"Vào cuối ngày, Hệ thống nhiệm vụ yêu cầu nạp 200 nghìn đồng, hoàn thành đơn sẽ được hoàn gấp ba.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,medium,LD7_JOB_INVESTMENT_T07,train
+336,"Buổi sáng, Một nhóm đầu tư hứa lợi nhuận cố định mỗi ngày và yêu cầu chuyển tiền vào tài khoản cá nhân.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T08,validation
+337,"Trong ứng dụng nhắn tin, Một nhóm đầu tư hứa lợi nhuận cố định mỗi ngày và yêu cầu chuyển tiền vào tài khoản cá nhân.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T08,validation
+338,"Trong một cuộc trò chuyện, Một nhóm đầu tư hứa lợi nhuận cố định mỗi ngày và yêu cầu chuyển tiền vào tài khoản cá nhân.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T08,validation
+339,"Buổi tối, Một nhóm đầu tư hứa lợi nhuận cố định mỗi ngày và đề nghị chuyển tiền vào tài khoản cá nhân.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T08,validation
+340,"Khi đang dùng điện thoại, Một nhóm đầu tư hứa lợi nhuận cố định mỗi ngày và yêu cầu chuyển tiền vào tài khoản cá nhân.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T08,validation
+341,"Vào cuối ngày, Tuyển làm nhiệm vụ trên ứng dụng lương cao, yêu cầu cung cấp thông tin ngân hàng và nạp phí trước.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T09,validation
+342,"Tuyển xử lý đơn hàng trực tuyến lương cao, đề nghị cung cấp thông tin ngân hàng và nạp phí trước.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T09,validation
+343,"Tuyển xử lý đơn hàng trực tuyến lương cao, yêu cầu cung cấp thông tin ngân hàng và nạp phí trước.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T09,validation
+344,"Tuyển cộng tác viên chốt đơn lương cao, đề nghị cung cấp thông tin ngân hàng và nạp phí trước.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T09,validation
+345,"Tuyển đánh giá sản phẩm online lương cao, đề nghị cung cấp thông tin ngân hàng và nạp phí trước.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T09,validation
+346,"Muốn nhận lại tiền từ nhiệm vụ trước, bạn được yêu cầu nộp thêm 500 nghìn đồng để “mở khóa rút tiền”.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T10,test
+347,"Buổi sáng, Muốn nhận lại tiền từ nhiệm vụ trước, bạn được yêu cầu nộp thêm 1 triệu đồng để “mở khóa rút tiền”.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T10,test
+348,"Sau giờ học, Muốn nhận lại tiền từ nhiệm vụ trước, bạn được yêu cầu nộp thêm 200 nghìn đồng để “mở khóa rút tiền”.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T10,test
+349,"Muốn nhận lại tiền từ nhiệm vụ trước, bạn được yêu cầu nộp thêm 100 nghìn đồng để “mở khóa rút tiền”.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T10,test
+350,"Muốn nhận lại tiền từ nhiệm vụ trước, bạn được yêu cầu nộp thêm 300 nghìn đồng để “mở khóa rút tiền”.",1,LD7_JOB_INVESTMENT,advance_fee;investment;money,synthetic_for_research,hard,LD7_JOB_INVESTMENT_T10,test
+351,"Bạn được thông báo phải chuyển 1 triệu đồng ngay hôm nay, nếu không hồ sơ sẽ bị xử lý.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T01,train
+352,"Bạn được thông báo phải chuyển 1 triệu đồng trong 10 phút, nếu không hồ sơ sẽ bị xử lý.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T01,train
+353,"Qua hộp thư, Bạn được thông báo phải chuyển 300 nghìn đồng trước 18 giờ, nếu không hồ sơ sẽ bị xử lý.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T01,train
+354,"Bạn được thông báo phải chuyển 100 nghìn đồng trong 5 phút, nếu không hồ sơ sẽ bị xử lý.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T01,train
+355,"Bạn được thông báo phải chuyển 300 nghìn đồng trong 5 phút, nếu không hồ sơ sẽ bị xử lý.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T01,train
+356,Tin nhắn đe dọa sẽ khóa dịch vụ nếu bạn không thanh toán 1 triệu đồng lập tức.,1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T02,train
+357,"Buổi tối, Tin nhắn đe dọa sẽ khóa dịch vụ nếu bạn không thanh toán 500 nghìn đồng ngay.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T02,train
+358,"Buổi tối, Tin nhắn đe dọa sẽ khóa dịch vụ nếu bạn không thanh toán 100 nghìn đồng ngay.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T02,train
+359,"Trong một cuộc trò chuyện, Tin nhắn đe dọa sẽ khóa dịch vụ nếu bạn không thanh toán 100 nghìn đồng ngay.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T02,train
+360,"Vào cuối ngày, Tin nhắn đe dọa sẽ khóa dịch vụ nếu bạn không thanh toán 500 nghìn đồng ngay.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T02,train
+361,"Trong lúc kiểm tra thông báo, Một người tự xưng là cơ quan chức năng yêu cầu chuyển tiền vào “tài khoản an toàn” để kiểm tra.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T03,train
+362,"Trong ứng dụng nhắn tin, Một người tự xưng là cơ quan chức năng yêu cầu chuyển tiền vào “tài khoản an toàn” để kiểm tra.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T03,train
+363,Một người tự xưng là cơ quan chức năng yêu cầu chuyển tiền vào “tài khoản an toàn” để kiểm tra.,1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T03,train
+364,"Buổi tối, Một người tự xưng là cơ quan chức năng đề nghị chuyển tiền vào “tài khoản an toàn” để kiểm tra.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T03,train
+365,"Trong một cuộc trò chuyện, Một người tự xưng là cơ quan chức năng yêu cầu chuyển tiền vào “tài khoản an toàn” để kiểm tra.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,easy,LD8_URGENCY_TRANSFER_T03,train
+366,Tin nhắn nói bạn có khoản nợ và phải chuyển 100 nghìn đồng trước 18 giờ để tránh bị phạt.,1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T04,train
+367,"Buổi sáng, Tin nhắn nói bạn có khoản nợ và phải chuyển 200 nghìn đồng trong 10 phút để tránh bị phạt.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T04,train
+368,"Trong một cuộc trò chuyện, Tin nhắn nói bạn có khoản nợ và phải chuyển 100 nghìn đồng trong vòng 30 phút để tránh bị phạt.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T04,train
+369,"Vào cuối ngày, Tin nhắn nói bạn có khoản nợ và phải chuyển 200 nghìn đồng trong 10 phút để tránh bị phạt.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T04,train
+370,Tin nhắn nói bạn có khoản nợ và phải chuyển 300 nghìn đồng trong 5 phút để tránh bị phạt.,1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T04,train
+371,"Qua hộp thư, Bạn được yêu cầu chuyển tiền ngay vì “hệ thống chỉ giữ giao dịch trong vài phút”.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T05,train
+372,"Buổi sáng, Bạn được yêu cầu chuyển tiền ngay vì “hệ thống chỉ giữ giao dịch trong vài phút”.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T05,train
+373,"Khi đang dùng điện thoại, Bạn được yêu cầu chuyển tiền lập tức vì “hệ thống chỉ giữ giao dịch trong vài phút”.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T05,train
+374,"Buổi tối, Bạn được yêu cầu chuyển tiền ngay vì “hệ thống chỉ giữ giao dịch trong vài phút”.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T05,train
+375,"Trong một cuộc trò chuyện, Bạn được đề nghị chuyển tiền ngay vì “hệ thống chỉ giữ giao dịch trong vài phút”.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T05,train
+376,"Vào cuối ngày, Người gọi nhắn rằng có vụ việc liên quan đến bạn và yêu cầu không kể cho ai, chỉ chuyển tiền.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T06,train
+377,"Buổi tối, Người gọi nhắn rằng có vụ việc liên quan đến bạn và yêu cầu không kể cho ai, chỉ chuyển tiền.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T06,train
+378,"Trong một cuộc trò chuyện, Người gọi nhắn rằng có vụ việc liên quan đến bạn và yêu cầu không kể cho ai, chỉ chuyển tiền.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T06,train
+379,"Sau giờ học, Người gọi nhắn rằng có vụ việc liên quan đến bạn và đề nghị không kể cho ai, chỉ chuyển tiền.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T06,train
+380,"Khi đang dùng điện thoại, Người gọi nhắn rằng có vụ việc liên quan đến bạn và yêu cầu không kể cho ai, chỉ chuyển tiền.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T06,train
+381,"Buổi sáng, Tin nhắn tạo áp lực rằng người thân gặp tai nạn và cần 100 nghìn đồng để cấp cứu ngay.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T07,train
+382,"Vào cuối ngày, Tin nhắn tạo áp lực rằng người thân gặp tai nạn và cần 500 nghìn đồng để cấp cứu ngay.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T07,train
+383,Tin nhắn tạo áp lực rằng người thân gặp tai nạn và cần 300 nghìn đồng để cấp cứu ngay.,1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T07,train
+384,"Trong một cuộc trò chuyện, Nội dung tin nhắn tạo áp lực rằng người thân gặp tai nạn và cần 100 nghìn đồng để cấp cứu ngay.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T07,train
+385,"Trong lúc kiểm tra thông báo, Tin nhắn tạo áp lực rằng người thân gặp tai nạn và cần 500 nghìn đồng để cấp cứu ngay.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,medium,LD8_URGENCY_TRANSFER_T07,train
+386,"Qua hộp thư, Bạn được yêu cầu thanh toán một khoản phạt qua tài khoản cá nhân trong 10 phút.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T08,validation
+387,"Trong lúc kiểm tra thông báo, Bạn được đề nghị thanh toán một khoản phạt qua tài khoản cá nhân trước 18 giờ.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T08,validation
+388,"Trong một cuộc trò chuyện, Bạn được yêu cầu thanh toán một khoản phạt qua tài khoản cá nhân trong 5 phút.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T08,validation
+389,"Trong ứng dụng nhắn tin, Bạn được yêu cầu thanh toán một khoản phạt qua tài khoản cá nhân trong 5 phút.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T08,validation
+390,Bạn được yêu cầu thanh toán một khoản phạt qua tài khoản cá nhân trong 10 phút.,1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T08,validation
+391,Một tài khoản đe dọa công khai thông tin nếu bạn không chuyển 200 nghìn đồng.,1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T09,test
+392,"Trong lúc kiểm tra thông báo, Một tài khoản đe dọa công khai thông tin nếu bạn không chuyển 500 nghìn đồng.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T09,test
+393,"Buổi tối, Một tài khoản đe dọa công khai thông tin nếu bạn không chuyển 100 nghìn đồng.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T09,test
+394,Một tài khoản đe dọa công khai thông tin nếu bạn không chuyển 100 nghìn đồng.,1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T09,test
+395,Một tài khoản đe dọa công khai thông tin nếu bạn không chuyển 500 nghìn đồng.,1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T09,test
+396,"Tin nhắn yêu cầu chuyển tiền gấp để “xác minh tài chính”, đồng thời yêu cầu giữ bí mật.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T10,test
+397,"Sau giờ học, Tin nhắn yêu cầu chuyển tiền gấp để “xác minh tài chính”, đồng thời yêu cầu giữ bí mật.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T10,test
+398,"Trong lúc kiểm tra thông báo, Tin nhắn yêu cầu chuyển tiền gấp để “xác minh tài chính”, đồng thời yêu cầu giữ bí mật.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T10,test
+399,"Qua hộp thư, Tin nhắn đề nghị chuyển tiền gấp để “xác minh tài chính”, đồng thời yêu cầu giữ bí mật.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T10,test
+400,"Buổi tối, Tin nhắn yêu cầu chuyển tiền gấp để “xác minh tài chính”, đồng thời yêu cầu giữ bí mật.",1,LD8_URGENCY_TRANSFER,urgency;money;threat,synthetic_for_research,hard,LD8_URGENCY_TRANSFER_T10,test
+401,Nhà trường thông báo sáng mai học sinh tập trung tại sân trường lúc 8 giờ.,0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T01,train
+402,Nhà trường thông báo sáng mai học sinh tập trung tại sân trường lúc 16 giờ.,0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T01,train
+403,"Trong lúc kiểm tra thông báo, Nhà trường thông báo thứ Ba học sinh tập trung tại sân trường lúc 19 giờ.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T01,train
+404,"Vào cuối ngày, Nhà trường thông báo thứ Sáu học sinh tập trung tại sân trường lúc 15 giờ 30.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T01,train
+405,"Sau giờ học, Nhà trường thông báo thứ Ba học sinh tập trung tại sân trường lúc 16 giờ.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T01,train
+406,Cô chủ nhiệm nhắc lớp nộp bài tập trước tiết học thứ Sáu.,0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T02,train
+407,"Trong lúc kiểm tra thông báo, Cô chủ nhiệm nhắc lớp nộp bài tập trước tiết học thứ Sáu.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T02,train
+408,"Sau giờ học, Cô chủ nhiệm nhắc lớp nộp bài tập trước tiết học sáng mai.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T02,train
+409,Cô chủ nhiệm nhắc lớp nộp bài tập trước tiết học thứ Ba.,0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T02,train
+410,"Vào cuối ngày, Cô chủ nhiệm nhắc lớp nộp bài tập trước tiết học sáng mai.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T02,train
+411,"Buổi tối, Lịch kiểm tra môn Khoa học tự nhiên được chuyển sang thứ Năm theo thông báo trên hệ thống của trường.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T03,train
+412,Lịch kiểm tra môn Tin học được chuyển sang chiều mai theo thông báo trên hệ thống của trường.,0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T03,train
+413,Lịch kiểm tra môn Khoa học tự nhiên được chuyển sang chiều mai theo thông báo trên hệ thống của trường.,0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T03,train
+414,"Trong ứng dụng nhắn tin, Lịch kiểm tra môn Tin học được chuyển sang thứ Sáu theo thông báo trên hệ thống của trường.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T03,train
+415,Lịch kiểm tra môn Ngữ văn được chuyển sang thứ Hai theo thông báo trên hệ thống của trường.,0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T03,train
+416,"Trong ứng dụng nhắn tin, Lớp mình học Tiếng Anh tại phòng B1 vào 7 giờ 15 thứ Sáu.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T04,train
+417,Lớp mình học Khoa học tự nhiên tại phòng B2 vào 7 giờ 15 thứ Tư.,0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T04,train
+418,"Trong một cuộc trò chuyện, Lớp mình học Tiếng Anh tại phòng phòng máy số 2 vào 15 giờ 30 thứ Năm.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T04,train
+419,"Buổi sáng, Lớp mình học Khoa học tự nhiên tại phòng phòng đa năng vào 13 giờ 30 thứ Năm.",0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T04,train
+420,Lớp mình học Ngữ văn tại phòng A1 vào 15 giờ 30 chiều mai.,0,BT1_SCHOOL,none,synthetic_for_research,easy,BT1_SCHOOL_T04,train
+421,Nhà trường mời phụ huynh họp tại lớp vào 13 giờ 30 chiều mai.,0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T05,train
+422,"Qua hộp thư, Nhà trường mời phụ huynh họp tại lớp vào 16 giờ thứ Hai.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T05,train
+423,"Trong lúc kiểm tra thông báo, Nhà trường mời phụ huynh họp tại lớp vào 19 giờ thứ Tư.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T05,train
+424,"Khi đang dùng điện thoại, Nhà trường mời phụ huynh họp tại lớp vào 7 giờ thứ Tư.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T05,train
+425,Nhà trường mời phụ huynh họp tại lớp vào 7 giờ 15 chiều mai.,0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T05,train
+426,"Khi đang dùng điện thoại, Thầy nhắc các em xem tài liệu trên cổng học tập chính thức của trường.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T06,train
+427,"Qua hộp thư, Thầy nhắc các em xem tài liệu trên cổng học tập chính thức của trường.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T06,train
+428,"Trong ứng dụng nhắn tin, Thầy nhắc các em xem tài liệu trên cổng học tập chính thức của trường.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T06,train
+429,"Buổi sáng, Thầy nhắc các em xem tài liệu trên cổng học tập chính thức của trường.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T06,train
+430,"Vào cuối ngày, Thầy nhắc các em xem tài liệu trên cổng học tập chính thức của trường.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T06,train
+431,"Qua hộp thư, Thông báo chính thức: tuần này thời khóa biểu được điều chỉnh ở tiết 3.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T07,train
+432,"Trong ứng dụng nhắn tin, Thông báo chính thức: tuần này thời khóa biểu được điều chỉnh ở tiết 4.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T07,train
+433,"Buổi sáng, Thông báo chính thức: tuần này thời khóa biểu được điều chỉnh ở tiết 3.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T07,train
+434,"Qua hộp thư, Thông báo chính thức: tuần này thời khóa biểu được điều chỉnh ở tiết 5.",0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T07,train
+435,Thông báo chính thức: tuần này thời khóa biểu được điều chỉnh ở tiết 4.,0,BT1_SCHOOL,none,synthetic_for_research,medium,BT1_SCHOOL_T07,train
+436,"Sau giờ học, Cô gửi danh sách nhóm trực nhật của lớp cho tuần tới.",0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T08,validation
+437,"Buổi sáng, Cô gửi danh sách nhóm trực nhật của lớp cho tuần tới.",0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T08,validation
+438,"Khi đang dùng điện thoại, Cô gửi danh sách nhóm trực nhật của lớp cho tuần tới.",0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T08,validation
+439,"Vào cuối ngày, Cô gửi danh sách nhóm trực nhật của lớp cho tuần tới.",0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T08,validation
+440,"Trong một cuộc trò chuyện, Cô gửi danh sách nhóm trực nhật của lớp cho tuần tới.",0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T08,validation
+441,"Trong ứng dụng nhắn tin, Nhà trường tổ chức chuyên đề an toàn số vào 15 giờ 30 thứ Tư.",0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T09,validation
+442,"Khi đang dùng điện thoại, Nhà trường tổ chức chuyên đề an toàn số vào 15 giờ 30 tuần tới.",0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T09,validation
+443,"Vào cuối ngày, Nhà trường tổ chức chuyên đề an toàn số vào 14 giờ tuần tới.",0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T09,validation
+444,Nhà trường tổ chức chuyên đề an toàn số vào 7 giờ thứ Tư.,0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T09,validation
+445,Nhà trường tổ chức chuyên đề an toàn số vào 15 giờ 30 tuần tới.,0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T09,validation
+446,Học sinh tham gia hoạt động trải nghiệm tập trung ở phòng B2.,0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T10,test
+447,Học sinh tham gia hoạt động trải nghiệm tập trung ở phòng phòng đa năng.,0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T10,test
+448,Học sinh tham gia hoạt động trải nghiệm tập trung ở phòng A2.,0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T10,test
+449,Học sinh tham gia hoạt động trải nghiệm tập trung ở phòng B1.,0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T10,test
+450,"Buổi sáng, Học sinh tham gia hoạt động trải nghiệm tập trung ở phòng phòng máy số 1.",0,BT1_SCHOOL,none,synthetic_for_research,hard,BT1_SCHOOL_T10,test
+451,Bài tập Tin học hôm nay là hoàn thành câu 7 đến câu 13.,0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T01,train
+452,"Vào cuối ngày, Bài tập Toán hôm nay là hoàn thành câu 6 đến câu 11.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T01,train
+453,"Qua hộp thư, Bài tập Khoa học tự nhiên hôm nay là hoàn thành câu 2 đến câu 18.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T01,train
+454,Bài tập Ngữ văn hôm nay là hoàn thành câu 9 đến câu 18.,0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T01,train
+455,"Vào cuối ngày, Bài tập Tiếng Anh hôm nay là hoàn thành câu 5 đến câu 17.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T01,train
+456,Bạn nhớ mang sách Khoa học tự nhiên và vở ghi vào tiết học sáng mai.,0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T02,train
+457,"Trong một cuộc trò chuyện, Bạn nhớ mang sách Tiếng Anh và vở ghi vào tiết học thứ Hai.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T02,train
+458,Bạn nhớ mang sách Tin học và vở ghi vào tiết học sáng mai.,0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T02,train
+459,Bạn nhớ mang sách Tiếng Anh và vở ghi vào tiết học thứ Ba.,0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T02,train
+460,Bạn nhớ mang sách Toán và vở ghi vào tiết học thứ Hai.,0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T02,train
+461,"Trong một cuộc trò chuyện, Nhóm mình họp trực tuyến lúc 7 giờ 15 để hoàn thiện bài thuyết trình.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T03,train
+462,"Sau giờ học, Nhóm mình họp trực tuyến lúc 14 giờ để hoàn thiện bài thuyết trình.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T03,train
+463,"Vào cuối ngày, Nhóm mình họp trực tuyến lúc 15 giờ 30 để hoàn thiện bài thuyết trình.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T03,train
+464,Nhóm mình họp trực tuyến lúc 19 giờ để hoàn thiện bài thuyết trình.,0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T03,train
+465,"Vào cuối ngày, Nhóm mình họp trực tuyến lúc 8 giờ để hoàn thiện bài thuyết trình.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T03,train
+466,"Trong ứng dụng nhắn tin, Mình gửi bạn nội dung ôn tập, xem rồi góp ý giúp nhé.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T04,train
+467,"Trong một cuộc trò chuyện, Mình gửi bạn nội dung ôn tập, xem rồi góp ý giúp nhé.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T04,train
+468,"Vào cuối ngày, Mình gửi bạn nội dung ôn tập, xem rồi góp ý giúp nhé.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T04,train
+469,"Qua hộp thư, Mình gửi bạn nội dung ôn tập, xem rồi góp ý giúp nhé.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T04,train
+470,"Trong lúc kiểm tra thông báo, Mình gửi bạn nội dung ôn tập, xem rồi góp ý giúp nhé.",0,BT2_STUDY,none,synthetic_for_research,easy,BT2_STUDY_T04,train
+471,"Khi đang dùng điện thoại, Ngày mai có tiết thực hành nên nhớ lưu bài vào thư mục cá nhân.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T05,train
+472,"Vào cuối ngày, Ngày mai có tiết thực hành nên nhớ lưu bài vào thư mục cá nhân.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T05,train
+473,Ngày mai có tiết thực hành nên nhớ lưu bài vào thư mục cá nhân.,0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T05,train
+474,"Trong lúc kiểm tra thông báo, Ngày mai có tiết thực hành nên nhớ lưu bài vào thư mục cá nhân.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T05,train
+475,"Buổi sáng, Ngày mai có tiết thực hành nên nhớ lưu bài vào thư mục cá nhân.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T05,train
+476,Thầy giao bài lập trình tính điểm trung bình và nộp trước sáng mai.,0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T06,train
+477,"Vào cuối ngày, Thầy giao bài lập trình tính điểm trung bình và nộp trước thứ Tư.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T06,train
+478,Thầy giao bài lập trình tính điểm trung bình và nộp trước thứ Ba.,0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T06,train
+479,"Trong ứng dụng nhắn tin, Thầy giao bài lập trình tính điểm trung bình và nộp trước tuần tới.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T06,train
+480,"Buổi tối, Thầy giao bài lập trình tính điểm trung bình và nộp trước thứ Ba.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T06,train
+481,"Trong ứng dụng nhắn tin, Bạn kiểm tra giúp mình lỗi chính tả trong báo cáo nhóm nhé.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T07,train
+482,"Khi đang dùng điện thoại, Bạn kiểm tra giúp mình lỗi chính tả trong báo cáo nhóm nhé.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T07,train
+483,"Buổi tối, Bạn kiểm tra giúp mình lỗi chính tả trong báo cáo nhóm nhé.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T07,train
+484,"Qua hộp thư, Bạn kiểm tra giúp mình lỗi chính tả trong báo cáo nhóm nhé.",0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T07,train
+485,Bạn kiểm tra giúp mình lỗi chính tả trong báo cáo nhóm nhé.,0,BT2_STUDY,none,synthetic_for_research,medium,BT2_STUDY_T07,train
+486,"Trong ứng dụng nhắn tin, Câu lạc bộ Tin học hướng dẫn cách tạo mật khẩu mạnh trong buổi sinh hoạt tới.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T08,validation
+487,"Vào cuối ngày, Câu lạc bộ Tin học hướng dẫn cách tạo mật khẩu mạnh trong buổi sinh hoạt tới.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T08,validation
+488,"Qua hộp thư, Câu lạc bộ Tin học hướng dẫn cách tạo mật khẩu mạnh trong buổi sinh hoạt tới.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T08,validation
+489,"Trong lúc kiểm tra thông báo, Câu lạc bộ Tin học hướng dẫn cách tạo mật khẩu mạnh trong buổi sinh hoạt tới.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T08,validation
+490,"Buổi tối, Câu lạc bộ Tin học hướng dẫn cách tạo mật khẩu mạnh trong buổi sinh hoạt tới.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T08,validation
+491,"Buổi sáng, Bài học tuần này là nhận biết nguồn thông tin đáng tin cậy trên Internet.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T09,test
+492,"Sau giờ học, Bài học tuần này là nhận biết nguồn thông tin đáng tin cậy trên Internet.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T09,test
+493,"Buổi tối, Bài học tuần này là nhận biết nguồn thông tin đáng tin cậy trên Internet.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T09,test
+494,"Trong lúc kiểm tra thông báo, Bài học tuần này là nhận biết nguồn thông tin đáng tin cậy trên Internet.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T09,test
+495,"Vào cuối ngày, Bài học tuần này là nhận biết nguồn thông tin đáng tin cậy trên Internet.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T09,test
+496,"Trong lúc kiểm tra thông báo, Nhớ đăng xuất tài khoản khi kết thúc buổi thực hành ở phòng máy.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T10,test
+497,Nhớ đăng xuất tài khoản khi kết thúc buổi thực hành ở phòng máy.,0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T10,test
+498,"Qua hộp thư, Nhớ đăng xuất tài khoản khi kết thúc buổi thực hành ở phòng máy.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T10,test
+499,"Trong một cuộc trò chuyện, Nhớ đăng xuất tài khoản khi kết thúc buổi thực hành ở phòng máy.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T10,test
+500,"Buổi tối, Nhớ đăng xuất tài khoản khi kết thúc buổi thực hành ở phòng máy.",0,BT2_STUDY,none,synthetic_for_research,hard,BT2_STUDY_T10,test
+501,"Trong một cuộc trò chuyện, Mẹ nhắn chiều nay về nhà nhớ mua giúp hộp bút.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T01,train
+502,"Sau giờ học, Mẹ nhắn chiều nay về nhà nhớ mua giúp quyển vở.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T01,train
+503,"Buổi tối, Mẹ nhắn chiều nay về nhà nhớ mua giúp hộp bút.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T01,train
+504,Mẹ nhắn chiều nay về nhà nhớ mua giúp hộp bút.,0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T01,train
+505,"Buổi tối, Mẹ nhắn chiều nay về nhà nhớ mua giúp quyển vở.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T01,train
+506,"Khi đang dùng điện thoại, Bố nhắc con về sớm lúc 7 giờ 15 để cả nhà đi thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T02,train
+507,"Sau giờ học, Bố nhắc con về sớm lúc 13 giờ 30 để cả nhà đi thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T02,train
+508,"Trong lúc kiểm tra thông báo, Bố nhắc con về sớm lúc 15 giờ 30 để cả nhà đi thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T02,train
+509,"Sau giờ học, Bố nhắc con về sớm lúc 7 giờ 15 để cả nhà đi thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T02,train
+510,"Buổi tối, Bố nhắc con về sớm lúc 7 giờ để cả nhà đi thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T02,train
+511,Bạn có rảnh thứ Năm cùng mình ôn môn Toán không?,0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T03,train
+512,"Trong ứng dụng nhắn tin, Bạn có rảnh sáng mai cùng mình ôn môn Ngữ văn không?",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T03,train
+513,"Qua hộp thư, Bạn có rảnh thứ Hai cùng mình ôn môn Tin học không?",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T03,train
+514,"Buổi tối, Bạn có rảnh thứ Ba cùng mình ôn môn Tiếng Anh không?",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T03,train
+515,"Qua hộp thư, Bạn có rảnh sáng mai cùng mình ôn môn Lịch sử và Địa lí không?",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T03,train
+516,Mình mượn vở Ngữ văn của bạn một buổi được không?,0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T04,train
+517,"Buổi sáng, Mình mượn vở Khoa học tự nhiên của bạn một buổi được không?",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T04,train
+518,Mình mượn vở Khoa học tự nhiên của bạn một buổi được không?,0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T04,train
+519,Mình mượn vở Lịch sử và Địa lí của bạn một buổi được không?,0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T04,train
+520,"Buổi sáng, Mình mượn vở Lịch sử và Địa lí của bạn một buổi được không?",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,easy,BT3_FAMILY_FRIEND_T04,train
+521,Chiều nay nhóm bạn hẹn nhau tập thể thao lúc 14 giờ.,0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T05,train
+522,Chiều nay nhóm bạn hẹn nhau tập thể thao lúc 8 giờ.,0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T05,train
+523,Chiều nay nhóm bạn hẹn nhau tập thể thao lúc 15 giờ 30.,0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T05,train
+524,"Khi đang dùng điện thoại, Chiều nay nhóm bạn hẹn nhau tập thể thao lúc 13 giờ 30.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T05,train
+525,"Buổi sáng, Chiều nay nhóm bạn hẹn nhau tập thể thao lúc 19 giờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T05,train
+526,"Anh nhắn đã về đến nhà an toàn, mọi người không cần chờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T06,train
+527,"Khi đang dùng điện thoại, Anh nhắn đã về đến nhà an toàn, mọi người không cần chờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T06,train
+528,"Trong một cuộc trò chuyện, Anh nhắn đã về đến nhà an toàn, mọi người không cần chờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T06,train
+529,"Sau giờ học, Anh nhắn đã về đến nhà an toàn, mọi người không cần chờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T06,train
+530,"Qua hộp thư, Anh nhắn đã về đến nhà an toàn, mọi người không cần chờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T06,train
+531,"Qua hộp thư, Bạn mình nhắc mang theo áo mưa vì chiều có thể mưa.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T07,train
+532,"Vào cuối ngày, Bạn mình nhắc mang theo áo mưa vì chiều có thể mưa.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T07,train
+533,"Khi đang dùng điện thoại, Bạn mình nhắc mang theo áo mưa vì chiều có thể mưa.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T07,train
+534,"Buổi tối, Bạn mình nhắc mang theo áo mưa vì chiều có thể mưa.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T07,train
+535,"Trong một cuộc trò chuyện, Bạn mình nhắc mang theo áo mưa vì chiều có thể mưa.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,medium,BT3_FAMILY_FRIEND_T07,train
+536,"Trong lúc kiểm tra thông báo, Gia đình thống nhất cuối tuần sẽ về quê thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T08,validation
+537,"Trong một cuộc trò chuyện, Gia đình thống nhất cuối tuần sẽ về quê thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T08,validation
+538,"Vào cuối ngày, Gia đình thống nhất cuối tuần sẽ về quê thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T08,validation
+539,"Sau giờ học, Gia đình thống nhất cuối tuần sẽ về quê thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T08,validation
+540,"Trong ứng dụng nhắn tin, Gia đình thống nhất cuối tuần sẽ về quê thăm ông bà.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T08,validation
+541,Bạn nhờ gửi lại ảnh bảng bài tập đã chụp trong lớp.,0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T09,validation
+542,"Trong ứng dụng nhắn tin, Bạn nhờ gửi lại ảnh bảng bài tập đã chụp trong lớp.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T09,validation
+543,"Qua hộp thư, Bạn nhờ gửi lại ảnh bảng bài tập đã chụp trong lớp.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T09,validation
+544,"Vào cuối ngày, Bạn nhờ gửi lại ảnh bảng bài tập đã chụp trong lớp.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T09,validation
+545,"Trong lúc kiểm tra thông báo, Bạn nhờ gửi lại ảnh bảng bài tập đã chụp trong lớp.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T09,validation
+546,"Vào cuối ngày, Mẹ nhắn cơm tối đã chuẩn bị xong, nhớ về đúng giờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T10,test
+547,"Trong một cuộc trò chuyện, Mẹ nhắn cơm tối đã chuẩn bị xong, nhớ về đúng giờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T10,test
+548,"Buổi sáng, Mẹ nhắn cơm tối đã chuẩn bị xong, nhớ về đúng giờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T10,test
+549,"Mẹ nhắn cơm tối đã chuẩn bị xong, nhớ về đúng giờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T10,test
+550,"Qua hộp thư, Mẹ nhắn cơm tối đã chuẩn bị xong, nhớ về đúng giờ.",0,BT3_FAMILY_FRIEND,none,synthetic_for_research,hard,BT3_FAMILY_FRIEND_T10,test
+551,"Trong một cuộc trò chuyện, Thầy nhắc học sinh tuyệt đối không chia sẻ mã OTP cho người khác.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T01,train
+552,"Khi đang dùng điện thoại, Thầy nhắc học sinh tuyệt đối không chia sẻ mã OTP cho người khác.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T01,train
+553,"Sau giờ học, Thầy nhắc học sinh tuyệt đối không chia sẻ mã OTP cho người khác.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T01,train
+554,"Buổi sáng, Thầy nhắc học sinh tuyệt đối không chia sẻ mã OTP cho người khác.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T01,train
+555,"Vào cuối ngày, Thầy nhắc học sinh tuyệt đối không chia sẻ mã OTP cho người khác.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T01,train
+556,"Qua hộp thư, Cô hướng dẫn khi gặp liên kết lạ thì không bấm vào và nên kiểm tra nguồn gửi.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T02,train
+557,"Buổi tối, Cô hướng dẫn khi gặp đường link lạ thì không bấm vào và nên kiểm tra nguồn gửi.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T02,train
+558,Cô hướng dẫn khi gặp liên kết lạ thì không bấm vào và nên kiểm tra nguồn gửi.,0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T02,train
+559,"Khi đang dùng điện thoại, Cô hướng dẫn khi gặp đường link lạ thì không bấm vào và nên kiểm tra nguồn gửi.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T02,train
+560,"Trong lúc kiểm tra thông báo, Cô hướng dẫn khi gặp đường link lạ thì không bấm vào và nên kiểm tra nguồn gửi.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T02,train
+561,Bài học hôm nay nhắc rằng mật khẩu không nên gửi qua tin nhắn cho bất kỳ ai.,0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T03,train
+562,"Trong một cuộc trò chuyện, Bài học hôm nay nhắc rằng mật khẩu không nên gửi qua tin nhắn cho bất kỳ ai.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T03,train
+563,"Trong ứng dụng nhắn tin, Bài học hôm nay nhắc rằng mật khẩu không nên gửi qua tin nhắn cho bất kỳ ai.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T03,train
+564,"Sau giờ học, Bài học hôm nay nhắc rằng mật khẩu không nên gửi qua tin nhắn cho bất kỳ ai.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T03,train
+565,"Qua hộp thư, Bài học hôm nay nhắc rằng mật khẩu không nên gửi qua tin nhắn cho bất kỳ ai.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T03,train
+566,"Qua hộp thư, Nhà trường khuyến cáo học sinh chỉ đăng nhập trên website chính thức.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T04,train
+567,"Khi đang dùng điện thoại, Nhà trường khuyến cáo học sinh chỉ đăng nhập trên website chính thức.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T04,train
+568,"Sau giờ học, Nhà trường khuyến cáo học sinh chỉ đăng nhập trên website chính thức.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T04,train
+569,"Buổi sáng, Nhà trường khuyến cáo học sinh chỉ đăng nhập trên website chính thức.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T04,train
+570,"Vào cuối ngày, Nhà trường khuyến cáo học sinh chỉ đăng nhập trên website chính thức.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T04,train
+571,"Trong ứng dụng nhắn tin, Tài liệu an toàn số hướng dẫn không chuyển tiền khi chưa xác minh danh tính người đề nghị.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T05,train
+572,"Vào cuối ngày, Tài liệu an toàn số hướng dẫn không chuyển tiền khi chưa xác minh danh tính người yêu cầu.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T05,train
+573,"Trong lúc kiểm tra thông báo, Tài liệu an toàn số hướng dẫn không chuyển tiền khi chưa xác minh danh tính người đề nghị.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T05,train
+574,"Sau giờ học, Tài liệu an toàn số hướng dẫn không chuyển tiền khi chưa xác minh danh tính người yêu cầu.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T05,train
+575,Tài liệu an toàn số hướng dẫn không chuyển tiền khi chưa xác minh danh tính người yêu cầu.,0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,medium,BT4_DIGITAL_SAFETY_T05,train
+576,"Trong lúc kiểm tra thông báo, Câu lạc bộ Tin học thảo luận cách nhận biết tin nhắn trúng thưởng giả mạo.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T06,train
+577,"Trong một cuộc trò chuyện, Câu lạc bộ Tin học thảo luận cách nhận biết tin nhắn trúng thưởng giả mạo.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T06,train
+578,"Qua hộp thư, Câu lạc bộ Tin học thảo luận cách nhận biết tin nhắn trúng thưởng giả mạo.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T06,train
+579,"Sau giờ học, Câu lạc bộ Tin học thảo luận cách nhận biết tin nhắn trúng thưởng giả mạo.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T06,train
+580,Câu lạc bộ Tin học thảo luận cách nhận biết tin nhắn trúng thưởng giả mạo.,0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T06,train
+581,"Sau giờ học, Thầy minh họa một tin nhắn có chữ OTP để giải thích vì sao phải bảo vệ mã xác thực.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T07,train
+582,Thầy minh họa một tin nhắn có chữ OTP để giải thích vì sao phải bảo vệ mã xác thực.,0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T07,train
+583,"Trong lúc kiểm tra thông báo, Thầy minh họa một tin nhắn có chữ OTP để giải thích vì sao phải bảo vệ mã xác thực.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T07,train
+584,"Qua hộp thư, Thầy minh họa một tin nhắn có chữ OTP để giải thích vì sao phải bảo vệ mã xác thực.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T07,train
+585,"Buổi sáng, Thầy minh họa một tin nhắn có chữ OTP để giải thích vì sao phải bảo vệ mã xác thực.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T07,train
+586,"Qua hộp thư, Giáo viên yêu cầu học sinh báo cho người lớn khi nhận được tin nhắn đáng ngờ.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T08,validation
+587,"Buổi sáng, Giáo viên yêu cầu học sinh báo cho người lớn khi nhận được tin nhắn đáng ngờ.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T08,validation
+588,"Buổi sáng, Giáo viên đề nghị học sinh báo cho người lớn khi nhận được tin nhắn đáng ngờ.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T08,validation
+589,Giáo viên yêu cầu học sinh báo cho người lớn khi nhận được tin nhắn đáng ngờ.,0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T08,validation
+590,"Sau giờ học, Giáo viên yêu cầu học sinh báo cho người lớn khi nhận được tin nhắn đáng ngờ.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T08,validation
+591,"Buổi tối, Bài tập yêu cầu phân biệt liên kết chính thức và đường link giả mạo.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T09,test
+592,"Sau giờ học, Bài tập yêu cầu phân biệt liên kết chính thức và đường link giả mạo.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T09,test
+593,"Trong lúc kiểm tra thông báo, Bài tập đề nghị phân biệt đường link chính thức và đường link giả mạo.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T09,test
+594,"Buổi sáng, Bài tập yêu cầu phân biệt đường link chính thức và đường link giả mạo.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T09,test
+595,Bài tập yêu cầu phân biệt đường link chính thức và đường link giả mạo.,0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T09,test
+596,Thông báo của trường nhắc phụ huynh không cung cấp thông tin tài khoản qua liên kết lạ.,0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T10,test
+597,"Vào cuối ngày, Thông báo của trường nhắc phụ huynh không cung cấp thông tin tài khoản qua liên kết lạ.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T10,test
+598,"Buổi sáng, Thông báo của trường nhắc phụ huynh không cung cấp thông tin tài khoản qua liên kết lạ.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T10,test
+599,"Qua hộp thư, Thông báo của trường nhắc phụ huynh không cung cấp thông tin tài khoản qua liên kết lạ.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T10,test
+600,"Trong lúc kiểm tra thông báo, Thông báo của trường nhắc phụ huynh không cung cấp thông tin tài khoản qua liên kết lạ.",0,BT4_DIGITAL_SAFETY,none,synthetic_for_research,hard,BT4_DIGITAL_SAFETY_T10,test
+601,Ứng dụng chính thức thông báo bạn vừa đăng nhập trên thiết bị mới; nếu đúng là bạn thì không cần thao tác.,0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T01,train
+602,"Trong một cuộc trò chuyện, Ứng dụng chính thức thông báo bạn vừa đăng nhập trên thiết bị mới; nếu đúng là bạn thì không cần thao tác.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T01,train
+603,"Trong lúc kiểm tra thông báo, Ứng dụng chính thức thông báo bạn vừa đăng nhập trên thiết bị mới; nếu đúng là bạn thì không cần thao tác.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T01,train
+604,"Buổi sáng, Ứng dụng chính thức thông báo bạn vừa đăng nhập trên thiết bị mới; nếu đúng là bạn thì không cần thao tác.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T01,train
+605,"Khi đang dùng điện thoại, Ứng dụng chính thức thông báo bạn vừa đăng nhập trên thiết bị mới; nếu đúng là bạn thì không cần thao tác.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T01,train
+606,"Trong ứng dụng nhắn tin, Hệ thống của trường gửi thông báo đổi mật khẩu định kỳ và yêu cầu truy cập trực tiếp cổng học tập chính thức.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T02,train
+607,Hệ thống của trường gửi thông báo đổi mật khẩu định kỳ và yêu cầu truy cập trực tiếp cổng học tập chính thức.,0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T02,train
+608,"Trong một cuộc trò chuyện, Hệ thống của trường gửi thông báo đổi mật khẩu định kỳ và yêu cầu truy cập trực tiếp cổng học tập chính thức.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T02,train
+609,"Trong lúc kiểm tra thông báo, Hệ thống của trường gửi thông báo đổi mật khẩu định kỳ và yêu cầu truy cập trực tiếp cổng học tập chính thức.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T02,train
+610,"Sau giờ học, Hệ thống của trường gửi thông báo đổi mật khẩu định kỳ và đề nghị truy cập trực tiếp cổng học tập chính thức.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T02,train
+611,"Trong lúc kiểm tra thông báo, Ngân hàng nhắc khách hàng không cung cấp OTP cho bất kỳ ai, kể cả người tự xưng là nhân viên.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T03,train
+612,"Vào cuối ngày, Ngân hàng nhắc khách hàng không cung cấp OTP cho bất kỳ ai, kể cả người tự xưng là nhân viên.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T03,train
+613,"Qua hộp thư, Ngân hàng nhắc khách hàng không cung cấp OTP cho bất kỳ ai, kể cả người tự xưng là nhân viên.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T03,train
+614,"Trong một cuộc trò chuyện, Ngân hàng nhắc khách hàng không cung cấp OTP cho bất kỳ ai, kể cả người tự xưng là nhân viên.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T03,train
+615,"Ngân hàng nhắc khách hàng không cung cấp OTP cho bất kỳ ai, kể cả người tự xưng là nhân viên.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T03,train
+616,"Trong một cuộc trò chuyện, Ứng dụng email thông báo có hoạt động đăng nhập mới và hướng dẫn tự mở ứng dụng để kiểm tra.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T04,train
+617,"Buổi tối, Ứng dụng email thông báo có hoạt động đăng nhập mới và hướng dẫn tự mở ứng dụng để kiểm tra.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T04,train
+618,"Vào cuối ngày, Ứng dụng email thông báo có hoạt động đăng nhập mới và hướng dẫn tự mở ứng dụng để kiểm tra.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T04,train
+619,"Khi đang dùng điện thoại, Ứng dụng email thông báo có hoạt động đăng nhập mới và hướng dẫn tự mở ứng dụng để kiểm tra.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T04,train
+620,"Sau giờ học, Ứng dụng email thông báo có hoạt động đăng nhập mới và hướng dẫn tự mở ứng dụng để kiểm tra.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T04,train
+621,Cổng học tập của trường thông báo bảo trì từ 7 giờ đến 13 giờ 30.,0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T05,train
+622,Cổng học tập của trường thông báo bảo trì từ 14 giờ đến 13 giờ 30.,0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T05,train
+623,"Trong ứng dụng nhắn tin, Cổng học tập của trường thông báo bảo trì từ 7 giờ đến 7 giờ 15.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T05,train
+624,"Trong ứng dụng nhắn tin, Cổng học tập của trường thông báo bảo trì từ 7 giờ 15 đến 14 giờ.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T05,train
+625,"Khi đang dùng điện thoại, Cổng học tập của trường thông báo bảo trì từ 13 giờ 30 đến 15 giờ 30.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,medium,BT5_OFFICIAL_ACCOUNT_T05,train
+626,"Khi đang dùng điện thoại, Website chính thức đăng hướng dẫn khôi phục tài khoản nhưng không yêu cầu gửi mật khẩu cho người hỗ trợ.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T06,train
+627,"Trong lúc kiểm tra thông báo, Website chính thức đăng hướng dẫn khôi phục tài khoản nhưng không yêu cầu gửi mật khẩu cho người hỗ trợ.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T06,train
+628,"Buổi sáng, Website chính thức đăng hướng dẫn khôi phục tài khoản nhưng không yêu cầu gửi mật khẩu cho người hỗ trợ.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T06,train
+629,"Vào cuối ngày, Website chính thức đăng hướng dẫn khôi phục tài khoản nhưng không yêu cầu gửi mật khẩu cho người hỗ trợ.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T06,train
+630,"Buổi tối, Website chính thức đăng hướng dẫn khôi phục tài khoản nhưng không yêu cầu gửi mật khẩu cho người hỗ trợ.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T06,train
+631,"Trong ứng dụng nhắn tin, Ứng dụng xác thực nhắc bạn kiểm tra tên miền chính thức trước khi đăng nhập.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T07,train
+632,"Trong một cuộc trò chuyện, Ứng dụng xác thực nhắc bạn kiểm tra tên miền chính thức trước khi đăng nhập.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T07,train
+633,"Vào cuối ngày, Ứng dụng xác thực nhắc bạn kiểm tra tên miền chính thức trước khi đăng nhập.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T07,train
+634,"Trong lúc kiểm tra thông báo, Ứng dụng xác thực nhắc bạn kiểm tra tên miền chính thức trước khi đăng nhập.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T07,train
+635,Ứng dụng xác thực nhắc bạn kiểm tra tên miền chính thức trước khi đăng nhập.,0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T07,train
+636,"Sau giờ học, Hệ thống gửi mã OTP do chính bạn vừa đề nghị khi đăng nhập; thông báo ghi rõ không chia sẻ mã này.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T08,validation
+637,"Khi đang dùng điện thoại, Hệ thống gửi mã OTP do chính bạn vừa yêu cầu khi đăng nhập; thông báo ghi rõ không chia sẻ mã này.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T08,validation
+638,"Vào cuối ngày, Hệ thống gửi mã OTP do chính bạn vừa yêu cầu khi đăng nhập; thông báo ghi rõ không chia sẻ mã này.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T08,validation
+639,Hệ thống gửi mã OTP do chính bạn vừa yêu cầu khi đăng nhập; thông báo ghi rõ không chia sẻ mã này.,0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T08,validation
+640,"Trong lúc kiểm tra thông báo, Hệ thống gửi mã OTP do chính bạn vừa yêu cầu khi đăng nhập; thông báo ghi rõ không chia sẻ mã này.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T08,validation
+641,"Trong ứng dụng nhắn tin, Ứng dụng ngân hàng thông báo giao dịch vừa thực hiện thành công trong ứng dụng chính thức.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T09,validation
+642,"Sau giờ học, Ứng dụng ngân hàng thông báo giao dịch vừa thực hiện thành công trong ứng dụng chính thức.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T09,validation
+643,"Trong một cuộc trò chuyện, Ứng dụng ngân hàng thông báo giao dịch vừa thực hiện thành công trong ứng dụng chính thức.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T09,validation
+644,Ứng dụng ngân hàng thông báo giao dịch vừa thực hiện thành công trong ứng dụng chính thức.,0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T09,validation
+645,"Vào cuối ngày, Ứng dụng ngân hàng thông báo giao dịch vừa thực hiện thành công trong ứng dụng chính thức.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T09,validation
+646,"Trong một cuộc trò chuyện, Dịch vụ trực tuyến nhắc người dùng tự mở ứng dụng nếu muốn cập nhật thông tin bảo mật.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T10,test
+647,"Vào cuối ngày, Dịch vụ trực tuyến nhắc người dùng tự mở ứng dụng nếu muốn cập nhật thông tin bảo mật.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T10,test
+648,"Khi đang dùng điện thoại, Dịch vụ trực tuyến nhắc người dùng tự mở ứng dụng nếu muốn cập nhật thông tin bảo mật.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T10,test
+649,"Trong lúc kiểm tra thông báo, Dịch vụ trực tuyến nhắc người dùng tự mở ứng dụng nếu muốn cập nhật thông tin bảo mật.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T10,test
+650,"Buổi sáng, Dịch vụ trực tuyến nhắc người dùng tự mở ứng dụng nếu muốn cập nhật thông tin bảo mật.",0,BT5_OFFICIAL_ACCOUNT,none,synthetic_for_research,hard,BT5_OFFICIAL_ACCOUNT_T10,test
+651,"Trong một cuộc trò chuyện, Câu lạc bộ Tiếng Anh sinh hoạt lúc 16 giờ tuần tới.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T01,train
+652,Câu lạc bộ Mỹ thuật sinh hoạt lúc 8 giờ thứ Ba.,0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T01,train
+653,Câu lạc bộ Khoa học sinh hoạt lúc 8 giờ thứ Hai.,0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T01,train
+654,Câu lạc bộ STEM sinh hoạt lúc 15 giờ 30 thứ Hai.,0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T01,train
+655,"Trong một cuộc trò chuyện, Câu lạc bộ Khoa học sinh hoạt lúc 7 giờ 15 thứ Tư.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T01,train
+656,Đội văn nghệ tập tại phòng thư viện vào thứ Sáu.,0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T02,train
+657,Đội văn nghệ tập tại phòng B1 vào thứ Sáu.,0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T02,train
+658,"Buổi sáng, Đội văn nghệ tập tại phòng B2 vào tuần tới.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T02,train
+659,"Trong lúc kiểm tra thông báo, Đội văn nghệ tập tại phòng B1 vào thứ Ba.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T02,train
+660,"Buổi sáng, Đội văn nghệ tập tại phòng A1 vào chiều mai.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T02,train
+661,"Khi đang dùng điện thoại, Lớp tổ chức lao động vệ sinh vào 19 giờ sáng thứ Ba.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T03,train
+662,Lớp tổ chức lao động vệ sinh vào 7 giờ sáng sáng mai.,0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T03,train
+663,"Trong lúc kiểm tra thông báo, Lớp tổ chức lao động vệ sinh vào 7 giờ 15 sáng thứ Hai.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T03,train
+664,"Sau giờ học, Lớp tổ chức lao động vệ sinh vào 7 giờ 15 sáng thứ Năm.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T03,train
+665,"Sau giờ học, Lớp tổ chức lao động vệ sinh vào 14 giờ sáng tuần tới.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T03,train
+666,"Trong một cuộc trò chuyện, Nhóm STEM chuẩn bị vật liệu để thử nghiệm sản phẩm trong tiết tới.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T04,train
+667,"Buổi tối, Nhóm STEM chuẩn bị vật liệu để thử nghiệm sản phẩm trong tiết tới.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T04,train
+668,"Sau giờ học, Nhóm STEM chuẩn bị vật liệu để thử nghiệm sản phẩm trong tiết tới.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T04,train
+669,"Buổi sáng, Nhóm STEM chuẩn bị vật liệu để thử nghiệm sản phẩm trong tiết tới.",0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T04,train
+670,Nhóm STEM chuẩn bị vật liệu để thử nghiệm sản phẩm trong tiết tới.,0,BT6_ACTIVITY,none,synthetic_for_research,easy,BT6_ACTIVITY_T04,train
+671,Thư viện mở cửa từ 7 giờ đến 17 giờ trong các ngày học.,0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T05,train
+672,"Sau giờ học, Thư viện mở cửa từ 7 giờ đến 17 giờ trong các ngày học.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T05,train
+673,"Khi đang dùng điện thoại, Thư viện mở cửa từ 7 giờ đến 17 giờ trong các ngày học.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T05,train
+674,"Qua hộp thư, Thư viện mở cửa từ 7 giờ đến 17 giờ trong các ngày học.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T05,train
+675,"Trong lúc kiểm tra thông báo, Thư viện mở cửa từ 7 giờ đến 17 giờ trong các ngày học.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T05,train
+676,Đội bóng của lớp tập ở sân trường sau giờ học thứ Tư.,0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T06,train
+677,"Trong ứng dụng nhắn tin, Đội bóng của lớp tập ở sân trường sau giờ học thứ Năm.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T06,train
+678,Đội bóng của lớp tập ở sân trường sau giờ học thứ Hai.,0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T06,train
+679,"Trong một cuộc trò chuyện, Đội bóng của lớp tập ở sân trường sau giờ học sáng mai.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T06,train
+680,Đội bóng của lớp tập ở sân trường sau giờ học thứ Ba.,0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T06,train
+681,"Buổi sáng, Nhà trường tổ chức ngày hội đọc sách vào tuần sau.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T07,train
+682,Nhà trường tổ chức ngày hội đọc sách vào tuần sau.,0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T07,train
+683,"Qua hộp thư, Nhà trường tổ chức ngày hội đọc sách vào tuần sau.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T07,train
+684,"Trong lúc kiểm tra thông báo, Nhà trường tổ chức ngày hội đọc sách vào tuần sau.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T07,train
+685,"Sau giờ học, Nhà trường tổ chức ngày hội đọc sách vào tuần sau.",0,BT6_ACTIVITY,none,synthetic_for_research,medium,BT6_ACTIVITY_T07,train
+686,"Vào cuối ngày, Học sinh tham gia cuộc thi vẽ tranh nộp sản phẩm tại phòng A1.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T08,validation
+687,Học sinh tham gia cuộc thi vẽ tranh nộp sản phẩm tại phòng A1.,0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T08,validation
+688,"Sau giờ học, Học sinh tham gia cuộc thi vẽ tranh nộp sản phẩm tại phòng thư viện.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T08,validation
+689,Học sinh tham gia cuộc thi vẽ tranh nộp sản phẩm tại phòng A2.,0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T08,validation
+690,Học sinh tham gia cuộc thi vẽ tranh nộp sản phẩm tại phòng thư viện.,0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T08,validation
+691,"Trong lúc kiểm tra thông báo, Ban cán sự lớp nhắc mỗi nhóm chuẩn bị một phần nội dung cho sinh hoạt chủ đề.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T09,test
+692,"Sau giờ học, Ban cán sự lớp nhắc mỗi nhóm chuẩn bị một phần nội dung cho sinh hoạt chủ đề.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T09,test
+693,"Trong một cuộc trò chuyện, Ban cán sự lớp nhắc mỗi nhóm chuẩn bị một phần nội dung cho sinh hoạt chủ đề.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T09,test
+694,"Trong ứng dụng nhắn tin, Ban cán sự lớp nhắc mỗi nhóm chuẩn bị một phần nội dung cho sinh hoạt chủ đề.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T09,test
+695,"Buổi tối, Ban cán sự lớp nhắc mỗi nhóm chuẩn bị một phần nội dung cho sinh hoạt chủ đề.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T09,test
+696,"Buổi sáng, Câu lạc bộ khoa học mời các bạn đăng ký trực tiếp với giáo viên phụ trách.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T10,test
+697,"Sau giờ học, Câu lạc bộ khoa học mời các bạn đăng ký trực tiếp với giáo viên phụ trách.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T10,test
+698,"Buổi tối, Câu lạc bộ khoa học mời các bạn đăng ký trực tiếp với giáo viên phụ trách.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T10,test
+699,"Qua hộp thư, Câu lạc bộ khoa học mời các bạn đăng ký trực tiếp với giáo viên phụ trách.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T10,test
+700,"Vào cuối ngày, Câu lạc bộ khoa học mời các bạn đăng ký trực tiếp với giáo viên phụ trách.",0,BT6_ACTIVITY,none,synthetic_for_research,hard,BT6_ACTIVITY_T10,test
+701,"Qua hộp thư, Mẹ nhắn đã chuyển tiền học thêm theo thỏa thuận với gia đình và dặn kiểm tra lại với cô giáo.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T01,train
+702,"Vào cuối ngày, Mẹ nhắn đã chuyển tiền học thêm theo thỏa thuận với gia đình và dặn kiểm tra lại với cô giáo.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T01,train
+703,"Sau giờ học, Mẹ nhắn đã chuyển tiền học thêm theo thỏa thuận với gia đình và dặn kiểm tra lại với cô giáo.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T01,train
+704,"Buổi sáng, Mẹ nhắn đã chuyển tiền học thêm theo thỏa thuận với gia đình và dặn kiểm tra lại với cô giáo.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T01,train
+705,"Khi đang dùng điện thoại, Mẹ nhắn đã chuyển tiền học thêm theo thỏa thuận với gia đình và dặn kiểm tra lại với cô giáo.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T01,train
+706,Nhà trường thông báo các khoản thu trên cổng thông tin chính thức và phụ huynh có thể kiểm tra trực tiếp.,0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T02,train
+707,"Vào cuối ngày, Nhà trường thông báo các khoản thu trên cổng thông tin chính thức và phụ huynh có thể kiểm tra trực tiếp.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T02,train
+708,"Sau giờ học, Nhà trường thông báo các khoản thu trên cổng thông tin chính thức và phụ huynh có thể kiểm tra trực tiếp.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T02,train
+709,"Buổi tối, Nhà trường thông báo các khoản thu trên cổng thông tin chính thức và phụ huynh có thể kiểm tra trực tiếp.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T02,train
+710,"Trong lúc kiểm tra thông báo, Nhà trường thông báo các khoản thu trên cổng thông tin chính thức và phụ huynh có thể kiểm tra trực tiếp.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T02,train
+711,"Trong lúc kiểm tra thông báo, Cô chủ nhiệm nhắc phụ huynh không chuyển tiền vào tài khoản cá nhân nếu chưa có thông báo chính thức.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T03,train
+712,"Qua hộp thư, Cô chủ nhiệm nhắc phụ huynh không chuyển tiền vào tài khoản cá nhân nếu chưa có thông báo chính thức.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T03,train
+713,"Khi đang dùng điện thoại, Cô chủ nhiệm nhắc phụ huynh không chuyển tiền vào tài khoản cá nhân nếu chưa có thông báo chính thức.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T03,train
+714,"Vào cuối ngày, Cô chủ nhiệm nhắc phụ huynh không chuyển tiền vào tài khoản cá nhân nếu chưa có thông báo chính thức.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T03,train
+715,"Buổi sáng, Cô chủ nhiệm nhắc phụ huynh không chuyển tiền vào tài khoản cá nhân nếu chưa có thông báo chính thức.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T03,train
+716,"Trong lúc kiểm tra thông báo, Bạn trả lại mình 500 nghìn đồng đã mượn hôm trước và nhắn kiểm tra tài khoản.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T04,train
+717,Bạn trả lại mình 200 nghìn đồng đã mượn hôm trước và nhắn kiểm tra tài khoản.,0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T04,train
+718,Bạn trả lại mình 500 nghìn đồng đã mượn hôm trước và nhắn kiểm tra tài khoản.,0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T04,train
+719,"Khi đang dùng điện thoại, Bạn trả lại mình 200 nghìn đồng đã mượn hôm trước và nhắn kiểm tra tài khoản.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T04,train
+720,"Vào cuối ngày, Bạn trả lại mình 100 nghìn đồng đã mượn hôm trước và nhắn kiểm tra tài khoản.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T04,train
+721,"Trong ứng dụng nhắn tin, Bố nhờ mua sách ở cửa hàng quen và sẽ thanh toán khi về nhà.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T05,train
+722,"Sau giờ học, Bố nhờ mua sách ở cửa hàng quen và sẽ thanh toán khi về nhà.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T05,train
+723,"Trong một cuộc trò chuyện, Bố nhờ mua sách ở cửa hàng quen và sẽ thanh toán khi về nhà.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T05,train
+724,"Khi đang dùng điện thoại, Bố nhờ mua sách ở cửa hàng quen và sẽ thanh toán khi về nhà.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T05,train
+725,"Qua hộp thư, Bố nhờ mua sách ở cửa hàng quen và sẽ thanh toán khi về nhà.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,medium,BT7_PAYMENT_LEGIT_T05,train
+726,"Sau giờ học, Ứng dụng ngân hàng chính thức thông báo giao dịch do chính chủ vừa thực hiện.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T06,train
+727,"Qua hộp thư, Ứng dụng ngân hàng chính thức thông báo giao dịch do chính chủ vừa thực hiện.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T06,train
+728,"Buổi sáng, Ứng dụng ngân hàng chính thức thông báo giao dịch do chính chủ vừa thực hiện.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T06,train
+729,Ứng dụng ngân hàng chính thức thông báo giao dịch do chính chủ vừa thực hiện.,0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T06,train
+730,"Trong ứng dụng nhắn tin, Ứng dụng ngân hàng chính thức thông báo giao dịch do chính chủ vừa thực hiện.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T06,train
+731,"Trong ứng dụng nhắn tin, Nhà trường hướng dẫn phụ huynh liên hệ văn phòng nếu có thắc mắc về khoản thu.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T07,train
+732,"Buổi sáng, Nhà trường hướng dẫn phụ huynh liên hệ văn phòng nếu có thắc mắc về khoản thu.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T07,train
+733,"Sau giờ học, Nhà trường hướng dẫn phụ huynh liên hệ văn phòng nếu có thắc mắc về khoản thu.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T07,train
+734,"Buổi tối, Nhà trường hướng dẫn phụ huynh liên hệ văn phòng nếu có thắc mắc về khoản thu.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T07,train
+735,"Trong lúc kiểm tra thông báo, Nhà trường hướng dẫn phụ huynh liên hệ văn phòng nếu có thắc mắc về khoản thu.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T07,train
+736,"Trong lúc kiểm tra thông báo, Mẹ nhắc không chuyển tiền cho người lạ dù họ nói tình huống rất khẩn cấp.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T08,validation
+737,"Buổi tối, Mẹ nhắc không chuyển tiền cho người lạ dù họ nói tình huống rất khẩn cấp.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T08,validation
+738,"Qua hộp thư, Mẹ nhắc không chuyển tiền cho người lạ dù họ nói tình huống rất khẩn cấp.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T08,validation
+739,"Trong ứng dụng nhắn tin, Mẹ nhắc không chuyển tiền cho người lạ dù họ nói tình huống rất khẩn cấp.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T08,validation
+740,"Vào cuối ngày, Mẹ nhắc không chuyển tiền cho người lạ dù họ nói tình huống rất khẩn cấp.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T08,validation
+741,"Trong lúc kiểm tra thông báo, Cô giáo dặn học sinh không thu hoặc chuyển các khoản tiền qua tin nhắn cá nhân.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T09,validation
+742,"Buổi tối, Cô giáo dặn học sinh không thu hoặc chuyển các khoản tiền qua tin nhắn cá nhân.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T09,validation
+743,"Trong ứng dụng nhắn tin, Cô giáo dặn học sinh không thu hoặc chuyển các khoản tiền qua tin nhắn cá nhân.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T09,validation
+744,"Trong một cuộc trò chuyện, Cô giáo dặn học sinh không thu hoặc chuyển các khoản tiền qua tin nhắn cá nhân.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T09,validation
+745,"Qua hộp thư, Cô giáo dặn học sinh không thu hoặc chuyển các khoản tiền qua tin nhắn cá nhân.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T09,validation
+746,"Sau giờ học, Gia đình thống nhất mua dụng cụ học tập tại cửa hàng và giữ hóa đơn.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T10,test
+747,"Trong ứng dụng nhắn tin, Gia đình thống nhất mua dụng cụ học tập tại cửa hàng và giữ hóa đơn.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T10,test
+748,"Buổi sáng, Gia đình thống nhất mua dụng cụ học tập tại cửa hàng và giữ hóa đơn.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T10,test
+749,"Trong lúc kiểm tra thông báo, Gia đình thống nhất mua dụng cụ học tập tại cửa hàng và giữ hóa đơn.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T10,test
+750,"Qua hộp thư, Gia đình thống nhất mua dụng cụ học tập tại cửa hàng và giữ hóa đơn.",0,BT7_PAYMENT_LEGIT,none,synthetic_for_research,hard,BT7_PAYMENT_LEGIT_T10,test
+751,"Trong một cuộc trò chuyện, Sáng mai thời tiết có thể mưa, bạn nhớ mang áo mưa.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T01,train
+752,"Buổi tối, Sáng mai thời tiết có thể mưa, bạn nhớ mang áo mưa.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T01,train
+753,"Trong ứng dụng nhắn tin, Sáng mai thời tiết có thể mưa, bạn nhớ mang áo mưa.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T01,train
+754,"Buổi sáng, Sáng mai thời tiết có thể mưa, bạn nhớ mang áo mưa.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T01,train
+755,"Sáng mai thời tiết có thể mưa, bạn nhớ mang áo mưa.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T01,train
+756,"Vào cuối ngày, Hôm nay căn tin trường có thêm sữa chua và trái cây.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T02,train
+757,Hôm nay căn tin trường có thêm sữa chua và trái cây.,0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T02,train
+758,"Sau giờ học, Hôm nay căn tin trường có thêm sữa chua và trái cây.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T02,train
+759,"Trong một cuộc trò chuyện, Hôm nay căn tin trường có thêm sữa chua và trái cây.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T02,train
+760,"Trong lúc kiểm tra thông báo, Hôm nay căn tin trường có thêm sữa chua và trái cây.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T02,train
+761,"Sau giờ học, Bạn nhớ sạc máy tính bảng trước buổi học.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T03,train
+762,Bạn nhớ sạc máy tính bảng trước buổi học.,0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T03,train
+763,"Buổi tối, Bạn nhớ sạc máy tính bảng trước buổi học.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T03,train
+764,"Trong ứng dụng nhắn tin, Bạn nhớ sạc máy tính bảng trước buổi học.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T03,train
+765,"Qua hộp thư, Bạn nhớ sạc máy tính bảng trước buổi học.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T03,train
+766,Phòng máy sẽ bảo trì vào tiết 1 hôm nay.,0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T04,train
+767,Phòng máy sẽ bảo trì vào tiết 5 hôm nay.,0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T04,train
+768,Phòng máy sẽ bảo trì vào tiết 2 hôm nay.,0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T04,train
+769,"Vào cuối ngày, Phòng máy sẽ bảo trì vào tiết 3 hôm nay.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T04,train
+770,"Sau giờ học, Phòng máy sẽ bảo trì vào tiết 5 hôm nay.",0,BT8_GENERAL,none,synthetic_for_research,easy,BT8_GENERAL_T04,train
+771,"Qua hộp thư, Lớp mình đổi phòng học từ B2 sang phòng máy số 1.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T05,train
+772,Lớp mình đổi phòng học từ phòng máy số 2 sang B2.,0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T05,train
+773,Lớp mình đổi phòng học từ A2 sang A2.,0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T05,train
+774,"Qua hộp thư, Lớp mình đổi phòng học từ phòng máy số 2 sang thư viện.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T05,train
+775,"Buổi tối, Lớp mình đổi phòng học từ A2 sang A2.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T05,train
+776,"Sau giờ học, Thứ Sáu lớp sinh hoạt chủ đề kỹ năng giao tiếp.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T06,train
+777,"Trong lúc kiểm tra thông báo, Thứ Sáu lớp sinh hoạt chủ đề kỹ năng giao tiếp.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T06,train
+778,"Qua hộp thư, Thứ Sáu lớp sinh hoạt chủ đề kỹ năng giao tiếp.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T06,train
+779,"Trong một cuộc trò chuyện, Thứ Sáu lớp sinh hoạt chủ đề kỹ năng giao tiếp.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T06,train
+780,Thứ Sáu lớp sinh hoạt chủ đề kỹ năng giao tiếp.,0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T06,train
+781,"Qua hộp thư, Mình đã gửi tệp bài tập vào nhóm lớp, bạn xem khi rảnh nhé.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T07,train
+782,"Trong lúc kiểm tra thông báo, Mình đã gửi tệp bài tập vào nhóm lớp, bạn xem khi rảnh nhé.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T07,train
+783,"Vào cuối ngày, Mình đã gửi tệp bài tập vào nhóm lớp, bạn xem khi rảnh nhé.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T07,train
+784,"Buổi sáng, Mình đã gửi tệp bài tập vào nhóm lớp, bạn xem khi rảnh nhé.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T07,train
+785,"Trong một cuộc trò chuyện, Mình đã gửi tệp bài tập vào nhóm lớp, bạn xem khi rảnh nhé.",0,BT8_GENERAL,none,synthetic_for_research,medium,BT8_GENERAL_T07,train
+786,"Buổi tối, Bạn nhớ mang thẻ học sinh khi vào thư viện.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T08,validation
+787,"Trong ứng dụng nhắn tin, Bạn nhớ mang thẻ học sinh khi vào thư viện.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T08,validation
+788,"Trong một cuộc trò chuyện, Bạn nhớ mang thẻ học sinh khi vào thư viện.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T08,validation
+789,Bạn nhớ mang thẻ học sinh khi vào thư viện.,0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T08,validation
+790,"Qua hộp thư, Bạn nhớ mang thẻ học sinh khi vào thư viện.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T08,validation
+791,"Buổi sáng, Tuần này lớp học bình thường theo thời khóa biểu.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T09,test
+792,"Qua hộp thư, Tuần này lớp học bình thường theo thời khóa biểu.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T09,test
+793,"Trong ứng dụng nhắn tin, Tuần này lớp học bình thường theo thời khóa biểu.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T09,test
+794,"Trong một cuộc trò chuyện, Tuần này lớp học bình thường theo thời khóa biểu.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T09,test
+795,"Buổi tối, Tuần này lớp học bình thường theo thời khóa biểu.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T09,test
+796,"Qua hộp thư, Sáng mai tập trung dưới sân trường lúc 15 giờ 30.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T10,test
+797,Sáng mai tập trung dưới sân trường lúc 19 giờ.,0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T10,test
+798,Sáng mai tập trung dưới sân trường lúc 15 giờ 30.,0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T10,test
+799,"Vào cuối ngày, Sáng mai tập trung dưới sân trường lúc 8 giờ.",0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T10,test
+800,Sáng mai tập trung dưới sân trường lúc 7 giờ 15.,0,BT8_GENERAL,none,synthetic_for_research,hard,BT8_GENERAL_T10,test

@@ -1,0 +1,101 @@
+﻿id,message,label
+1,"Chúc mừng bạn đã trúng thưởng 20 triệu đồng, bấm vào link để nhận quà ngay.",1
+2,"Tài khoản của bạn sẽ bị khóa trong 10 phút, hãy xác minh ngay tại đường dẫn này.",1
+3,Vui lòng gửi mã OTP vừa nhận được để hoàn tất xác minh tài khoản.,1
+4,"Bạn đã nhận được voucher 2 triệu đồng miễn phí, nhấn link để nhận ngay.",1
+5,"Ngân hàng thông báo tài khoản bất thường, đăng nhập vào liên kết này để kiểm tra.",1
+6,"Hồ sơ của bạn có lỗi, hãy nhập lại mật khẩu tại trang xác minh này.",1
+7,"Bạn được chọn nhận quà miễn phí, chỉ cần điền thông tin cá nhân theo đường link.",1
+8,"Tài khoản mạng xã hội của bạn sắp bị vô hiệu hóa, xác minh ngay.",1
+9,"Bạn đã trúng điện thoại mới, thanh toán phí vận chuyển để nhận quà.",1
+10,"Người thân đang gặp sự cố, hãy chuyển tiền gấp vào tài khoản này.",1
+11,"Cơ hội đầu tư lợi nhuận 30 phần trăm mỗi tuần, đăng ký ngay hôm nay.",1
+12,"Làm nhiệm vụ online nhận 500 nghìn mỗi ngày, nạp trước 200 nghìn để bắt đầu.",1
+13,"Hệ thống phát hiện đăng nhập lạ, bấm link và nhập mã OTP để bảo vệ tài khoản.",1
+14,Bạn còn 5 phút để xác minh nếu không tài khoản sẽ bị khóa.,1
+15,"Cảnh báo bảo mật khẩn cấp, truy cập đường dẫn rút gọn để cập nhật thông tin.",1
+16,"Bạn được hoàn tiền học phí, hãy nhập số tài khoản và mã xác thực.",1
+17,"Nhận học bổng đặc biệt, điền ngay thông tin cá nhân để không mất suất.",1
+18,"Bạn đã trúng thẻ game miễn phí, đăng nhập tài khoản để nhận mã.",1
+19,Thông báo từ nhà trường: đóng phí gấp qua tài khoản cá nhân này trong hôm nay.,1
+20,Giáo viên nhờ gửi mã OTP để xác nhận tài khoản học tập.,1
+21,"Tài khoản email của bạn sắp hết hạn, đăng nhập tại link này để gia hạn.",1
+22,"Có đơn hàng chưa thanh toán, bấm đường dẫn và nhập thông tin thẻ.",1
+23,"Bạn được nhận 5 triệu đồng hỗ trợ, xác minh CCCD tại trang này.",1
+24,Công an yêu cầu chuyển tiền vào tài khoản an toàn để phục vụ điều tra.,1
+25,Ngân hàng yêu cầu cung cấp mật khẩu để kích hoạt lại ứng dụng.,1
+26,"Tài khoản game của bạn vi phạm, gửi mã xác minh để tránh bị khóa.",1
+27,"Bạn đã thắng giải quay số, chuyển 100 nghìn phí nhận thưởng.",1
+28,"Nhận quà sinh nhật miễn phí, đăng nhập Facebook qua liên kết này.",1
+29,"Bạn bè nhắn đang gặp nạn, cần chuyển tiền ngay trong 15 phút.",1
+30,"Tuyển cộng tác viên online, nạp tiền trước rồi nhận hoa hồng cao.",1
+31,"Thông báo trúng học bổng quốc tế, thanh toán lệ phí ngay để giữ suất.",1
+32,"Bạn có khoản nợ chưa thanh toán, truy cập link để xử lý trong 30 phút.",1
+33,"Phát hiện virus trên điện thoại, cài ngay ứng dụng từ liên kết này.",1
+34,"Bạn được hoàn tiền mua hàng, cung cấp OTP để nhận tiền.",1
+35,"Tài khoản bị báo cáo, đăng nhập lại bằng link này để khôi phục.",1
+36,"Bạn đã nhận quà Tết, bấm vào link và nhập thông tin cá nhân.",1
+37,"Có người chuyển nhầm tiền cho bạn, bấm đường dẫn để hoàn trả.",1
+38,"Bạn được tuyển vào việc nhẹ lương cao, đóng phí hồ sơ ngay hôm nay.",1
+39,"Thông báo vi phạm giao thông, nhập số CCCD và tài khoản ngân hàng tại link.",1
+40,"Cập nhật định danh điện tử, tải ứng dụng theo liên kết lạ này.",1
+41,"Xác nhận học sinh nhận hỗ trợ, phụ huynh gửi mã OTP để hoàn tất.",1
+42,"Nhận 100GB dữ liệu miễn phí, nhấn link và đăng nhập tài khoản mạng xã hội.",1
+43,"Bạn là khách hàng may mắn, cung cấp số thẻ để nhận tiền thưởng.",1
+44,"Thông báo tài khoản bị xâm nhập, gửi mật khẩu để kiểm tra.",1
+45,Nạp 300 nghìn nhận lại 900 nghìn sau 10 phút.,1
+46,"Bưu điện thông báo có bưu phẩm, thanh toán phí qua link lạ.",1
+47,"Bạn được mời tham gia bình chọn và nhận quà, hãy đăng nhập qua liên kết.",1
+48,Quản trị viên lớp yêu cầu nhập mật khẩu tài khoản học tập để đồng bộ dữ liệu.,1
+49,"Tài khoản học sinh bị khóa, chuyển phí mở khóa vào tài khoản cá nhân.",1
+50,"Bạn được nhận tiền hỗ trợ khẩn cấp, nhập thông tin thẻ và OTP để nhận.",1
+51,Chiều nay lớp mình học Tin học tại phòng máy lúc 14 giờ.,0
+52,Mai nhớ mang sách Ngữ văn và vở bài tập nhé.,0
+53,Cô giáo thông báo thứ Hai lớp kiểm tra 15 phút môn Toán.,0
+54,Nhóm mình họp lúc 19 giờ để hoàn thiện bài thuyết trình.,0
+55,Mẹ nhắn chiều nay về nhà nhớ mua giúp một chai nước.,0
+56,Nhà trường thông báo lịch nghỉ lễ từ ngày 1 đến ngày 3.,0
+57,Bạn gửi mình ảnh bài tập trang 42 với nhé.,0
+58,Ngày mai đội bóng tập lúc 16 giờ ở sân trường.,0
+59,Thư viện mở cửa từ 7 giờ đến 17 giờ các ngày trong tuần.,0
+60,Lớp trưởng nhắc các bạn nộp bài trước tiết học ngày mai.,0
+61,Cô chủ nhiệm gửi lịch trực nhật của tuần này.,0
+62,Nhà trường mời phụ huynh họp vào 8 giờ sáng thứ Bảy.,0
+63,Bài tập Tin học hôm nay là hoàn thành chương trình tính điểm trung bình.,0
+64,Bạn có rảnh chiều nay cùng ôn bài không?,0
+65,Ngày mai mang theo giấy màu để làm sản phẩm STEM.,0
+66,Câu lạc bộ Tin học sinh hoạt vào chiều thứ Sáu.,0
+67,Phòng máy sẽ bảo trì vào tiết 5 hôm nay.,0
+68,Thầy gửi đường dẫn trang học chính thức trên hệ thống của trường.,0
+69,Mời các bạn tham gia cuộc thi vẽ tranh của trường vào tuần sau.,0
+70,Bài kiểm tra được chuyển sang thứ Tư theo thông báo của giáo viên.,0
+71,"Mình đã gửi tài liệu vào nhóm lớp, bạn xem giúp nhé.",0
+72,Căn tin trường hôm nay có thêm món sữa chua.,0
+73,Nhớ sạc máy tính bảng trước giờ học.,0
+74,Tuần sau lớp mình trực cờ đỏ vào thứ Hai.,0
+75,"Hôm nay mình nghỉ học vì gia đình có việc, nhờ bạn chép bài giúp.",0
+76,Giáo viên bộ môn nhắc hoàn thành dự án trước ngày 25.,0
+77,Nhà trường thông báo học sinh mặc đồng phục vào thứ Hai.,0
+78,Thứ Sáu lớp tổ chức sinh hoạt chủ đề an toàn trên mạng.,0
+79,Mình mượn vở Toán của bạn một buổi được không?,0
+80,Sáng mai lớp tập văn nghệ lúc 7 giờ 15.,0
+81,Bố nhắn chiều nay về sớm để đi thăm ông bà.,0
+82,Nhóm trưởng phân công mỗi bạn chuẩn bị một phần nội dung.,0
+83,Ngày mai có tiết thực hành nên nhớ mang tai nghe cá nhân.,0
+84,Cô gửi danh sách học sinh tham gia hoạt động trải nghiệm.,0
+85,Bài học hôm nay là tìm kiếm thông tin an toàn trên Internet.,0
+86,Bạn nhớ lưu bài trước khi tắt máy nhé.,0
+87,Mời các bạn đọc thông báo chính thức trên website của trường.,0
+88,Lớp mình đổi phòng học từ A2 sang B1 trong tiết 3.,0
+89,Thầy nhắc học sinh không chia sẻ mật khẩu cho bất kỳ ai.,0
+90,Ngày mai kiểm tra lại nội dung bài 4 và bài 5.,0
+91,Học sinh tham gia câu lạc bộ nộp đơn cho giáo viên phụ trách.,0
+92,"Mình gửi bạn tệp bài tập, xem rồi góp ý giúp nhé.",0
+93,Tuần này lớp học bình thường theo thời khóa biểu.,0
+94,Sáng mai tập trung dưới sân trường lúc 6 giờ 45.,0
+95,Bạn nhớ mang thẻ học sinh khi vào thư viện.,0
+96,Cô dặn khi gặp đường link lạ thì không bấm vào.,0
+97,Nhà trường tổ chức chuyên đề kỹ năng số vào chiều thứ Năm.,0
+98,Thầy gửi tài liệu ôn tập qua hệ thống học tập chính thức.,0
+99,Bạn có thể giúp mình kiểm tra lỗi chính tả trong bài không?,0
+100,Nhớ đăng xuất tài khoản khi sử dụng máy tính công cộng.,0
