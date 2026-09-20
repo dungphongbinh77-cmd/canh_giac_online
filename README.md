@@ -1,40 +1,29 @@
-# CẢNH GIÁC ONLINE - BỘ TRIỂN KHAI HOÀN CHỈNH
+# CẢNH GIÁC ONLINE - STUDENT VERSION v1.0
 
-Phiên bản dành cho giáo viên/học sinh THCS, gồm:
+Phiên bản chính thức dành cho học sinh THCS sử dụng trên điện thoại.
 
-- Mô hình TF-IDF + Logistic Regression đã huấn luyện trên bộ 800 mẫu mô phỏng cân bằng.
-- Giao diện Streamlit tối ưu điện thoại.
-- 30 tình huống luyện tập.
-- Theo dõi tiến bộ bằng mã học sinh ẩn danh.
-- Google Sheets làm kho dữ liệu tập trung.
-- Pre-test 20 câu + Post-test 20 câu.
-- Dashboard giáo viên + xuất CSV.
-- Bộ 60 mã nghiên cứu mẫu: 30 thực nghiệm + 30 đối chứng.
-- Công cụ kiểm tra dự án và tạo Streamlit Secrets.
-- Dockerfile cho phương án Google Cloud Run tùy chọn.
+## Chức năng
 
-## Bắt đầu
+- Kiểm tra thông điệp đáng ngờ.
+- Giải thích dấu hiệu cảnh báo và khuyến nghị xử lý.
+- Thử thách tình huống an toàn số theo chủ đề.
+- Theo dõi tiến bộ của từng mã học sinh.
+- Góc kiến thức an toàn số.
 
-Mở `START_HERE.md` và làm đúng thứ tự.
+## Không có trong bản học sinh
 
-## Chạy cục bộ
+- Trang quản trị giáo viên.
+- Pre-test/Post-test nghiên cứu.
+- Bộ dữ liệu huấn luyện 800 mẫu.
+- Mã nguồn huấn luyện mô hình.
+
+## Chạy thử trên máy tính
 
 ```bash
 python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-## Kiểm tra trước deploy
+## Deploy
 
-```bash
-python tools/check_project.py
-```
-
-## Kho dữ liệu
-
-- Nếu có Streamlit Secrets hợp lệ: Google Sheets.
-- Nếu chưa cấu hình: SQLite cục bộ (chỉ dùng phát triển/kiểm thử).
-
-## Bảo mật
-
-Không commit `.streamlit/secrets.toml`, Service Account JSON, `credentials.json` hoặc `data/progress.db` lên GitHub.
+Xem `DEPLOY_STUDENT_APP.md`.
